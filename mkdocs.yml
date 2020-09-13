@@ -20,7 +20,7 @@
 
 # Project information
 site_name: ESEAD
-site_url: https://esead.github.io/eb
+site_url: https://esead.github.io/
 site_author: Superintendência de Educação Aberta e a Distância
 site_description: >-
   Plataforma para disponibilização de e-books no formato App Web da Superintendência 
@@ -28,7 +28,7 @@ site_description: >-
 
 # Repository
 repo_name: esead/eb
-repo_url: https://github.com/esead/eb
+repo_url: https://github.com/esead/
 edit_uri: ""
 
 # Copyright
