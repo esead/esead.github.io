@@ -1,0 +1,209 @@
+# Copyright (c) 2016-2020 Martin Donath <martin.donath@squidfunk.com>
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to
+# deal in the Software without restriction, including without limitation the
+# rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+# sell copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+# IN THE SOFTWARE.
+
+# Project information
+site_name: ESEAD
+site_url: https://esead.github.io/eb
+site_author: Superintendência de Educação Aberta e a Distância
+site_description: >-
+  Plataforma para disponibilização de e-books no formato App Web da Superintendência 
+  de Educação Aberta e a Distância - SEAD da Universidade Federal do Recôncavo da Bahia.
+
+# Repository
+repo_name: esead/eb
+repo_url: https://github.com/esead/eb
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2020 Superintendência de Educação Aberta e a Distância - SEAD/UFRB
+
+# Configuration
+theme:
+  name: null
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: pt
+  features:
+    - tabs
+    #- instant
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: logo
+  favicon: assets/favicon.png
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/squidfunk
+    - icon: fontawesome/brands/gitter
+      link: https://gitter.im/squidfunk/mkdocs-material
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/squidfunk
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/squidfunk/
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/squidfunk
+
+# Extensions
+# Equations
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.highlight:
+  #     linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Extensions:
+    - Admonition: extensions/admonition.md
+    - CodeHilite: extensions/codehilite.md
+    - Footnotes: extensions/footnotes.md
+    - Metadata: extensions/metadata.md
+    - Permalinks: extensions/permalinks.md
+    - PyMdown: extensions/pymdown.md
+  - Plugins:
+    - Search: plugins/search.md
+    - Minification: plugins/minification.md
+    - Revision date: plugins/revision-date.md
+    - Awesome pages: plugins/awesome-pages.md
+  - Releases:
+    - Upgrading to 5.x: releases/5.md
+    - Upgrading to 4.x: releases/4.md
+    - Changelog: releases/changelog.md
+  - Customization: customization.md
+  - Data privacy: data-privacy.md
+  - Contributing: contributing.md
+  - License: license.md
+  - O Papel do Fiscal na Administração Pública:
+    - Capa: o-papel-do-fiscal-na-administracao-publica/capa.md
+    - Autora: o-papel-do-fiscal-na-administracao-publica/contra-capa.md
+    - Licença: o-papel-do-fiscal-na-administracao-publica/creative-commons.md
+    - Produção: o-papel-do-fiscal-na-administracao-publica/producao.md
+    - Apresentação: o-papel-do-fiscal-na-administracao-publica/apresentacao.md
+    - Conceitos: o-papel-do-fiscal-na-administracao-publica/introducao.md
+    - Definições: o-papel-do-fiscal-na-administracao-publica/definicoes.md
+    - Fiscalização dos Contratos: o-papel-do-fiscal-na-administracao-publica/fiscalizacao-dos-contratos.md
+    - Sugestões de orientações básicas aos fiscais: o-papel-do-fiscal-na-administracao-publica/sugestoes-fiscais.md
+    - Legislação e sites oficiais: o-papel-do-fiscal-na-administracao-publica/legislacao-oficiais.md
+    - Modelos dos formulários: o-papel-do-fiscal-na-administracao-publica/modelos-formularios.md
+    - Referências: o-papel-do-fiscal-na-administracao-publica/referencias.md
+    - Anexos: o-papel-do-fiscal-na-administracao-publica/anexos.md
+    - Capa fundo: o-papel-do-fiscal-na-administracao-publica/capa-fundo.md
+    - Videoaulas: o-papel-do-fiscal-na-administracao-publica/videoaulas.md
+  - Leitura de Ambientes da Mineração:
+    - Capa: leitura-de-ambientes-da-mineracao/capa.md
+    - Autores: leitura-de-ambientes-da-mineracao/contra-capa.md
+    - Licença: leitura-de-ambientes-da-mineracao/creative-commons.md
+    - Produção: leitura-de-ambientes-da-mineracao/producao.md
+    - Apresentação: leitura-de-ambientes-da-mineracao/apresentacao.md
+    - Introdução: leitura-de-ambientes-da-mineracao/introducao.md
+    - Ambiente Terrestre e Diversidade: leitura-de-ambientes-da-mineracao/ambiente.md
+    - Recursos Minerais e Energéticos da Terra: leitura-de-ambientes-da-mineracao/recursos.md
+    - Alterações do Ambiente pela Atividade de Mineração: leitura-de-ambientes-da-mineracao/alteracoes.md
+    - Percepção e Análise Ambiental: leitura-de-ambientes-da-mineracao/percepcao.md
+    - Ferramentas para a Leitura de Ambientes: leitura-de-ambientes-da-mineracao/ferramentas.md
+    - Referências: leitura-de-ambientes-da-mineracao/referencias.md
+    - Capa fundo: leitura-de-ambientes-da-mineracao/capa-fundo.md
+  - Guia de Produção de Material Didático:
+    - Capa: guia-de-producao-de-material-didatico/capa.md
+    - Autor: guia-de-producao-de-material-didatico/contra-capa.md
+    - Licença: guia-de-producao-de-material-didatico/creative-commons.md
+    - Produção: guia-de-producao-de-material-didatico/producao.md
+    - Guia de Produção: guia-de-producao-de-material-didatico/guia-de-producao.md
+    - Acessibilidade em Materiais Didáticos: guia-de-producao-de-material-didatico/acessibilidade-materiais.md
+    - Capa fundo: guia-de-producao-de-material-didatico/capa-fundo.md
+  - Tecnologias e Educação Digital:
+    - Capa: tecnologias-educacao-digital/capa.md
+    - Autores: tecnologias-educacao-digital/contra-capa.md
+    - Licença:  tecnologias-educacao-digital/creative-commons.md
+    - Produção: tecnologias-educacao-digital/producao.md
+    - Apresentação: tecnologias-educacao-digital/apresentacao.md
+    - Introdução: tecnologias-educacao-digital/introducao.md
+    - Ambiente Terrestre e Diversidade: tecnologias-educacao-digital/ambiente.md
+    - Recursos Minerais e Energéticos da Terra: tecnologias-educacao-digital/recursos.md
+    - Alterações do Ambiente pela Atividade de Mineração: tecnologias-educacao-digital/alteracoes.md
+    - Percepção e Análise Ambiental: tecnologias-educacao-digital/percepcao.md
+    - Ferramentas para a Leitura de Ambientes: tecnologias-educacao-digital/ferramentas.md
+    - Referências': tecnologias-educacao-digital/referencias.md
+    - Capa fundo': tecnologias-educacao-digital/capa-fundo.md 
+
+# Google Analytics
+google_analytics:
+  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - auto
