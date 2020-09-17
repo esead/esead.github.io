@@ -6,6 +6,9 @@
 Prezado(a) Aluno(a), 
 
 
+dlkajlsdfjasjf aqui faizemos uma modificação! 
+
+
 <p style="text-align: justify;">
 
 O Componente “Leitura de Ambientes da Mineração” constitui um instrumento integrador
