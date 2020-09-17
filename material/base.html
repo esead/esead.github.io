@@ -33,11 +33,11 @@
     {% endblock %}
     {% block htmltitle %}
       {% if page and page.meta and page.meta.title %}
-        <title>{{ page.meta.title }}</title>
+        <title>CETENS C1</title>
       {% elif page and page.title and not page.is_homepage %}
         <title>{{ page.title | striptags }} - {{ config.site_name }}</title>
       {% else %}
-        <title>{{ config.site_name }}</title>
+        <title>CETENS C1</title>
       {% endif %}
     {% endblock %}
     {% block styles %}
@@ -209,7 +209,7 @@
           base: "{{ base_url }}",
           features: {{ config.theme.features | tojson }},
           search: Object.assign({
-            worker: "{{ 'assets/javascripts/worker/search.a68abb33.min.js' | url }}"
+            worker:"{{ 'assets/javascripts/worker/search.a68abb33.min.js' | url }}"
           }, typeof search !== "undefined" && search)
         })
       </script>

@@ -19,15 +19,15 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: ESEAD
+site_name: esead 
 site_url: https://esead.github.io/
-site_author: Superintendência de Educação Aberta e a Distância
+site_author: Superintendência de Educação Aberta e a Distância (SEAD)
 site_description: >-
   Plataforma para disponibilização de e-books no formato App Web da Superintendência 
-  de Educação Aberta e a Distância - SEAD da Universidade Federal do Recôncavo da Bahia.
+  de Educação Aberta e a Distância (SEAD) da Universidade Federal do Recôncavo da Bahia (UFRB).
 
 # Repository
-repo_name: esead/eb
+repo_name: esead
 repo_url: https://github.com/esead/
 edit_uri: ""
 
@@ -54,8 +54,8 @@ theme:
     #- instant
   palette:
     scheme: default
-    primary: indigo
-    accent: indigo
+    primary: blue
+    accent: blue
   font:
     text: Roboto
     code: Roboto Mono
@@ -73,17 +73,11 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/squidfunk
-    - icon: fontawesome/brands/gitter
-      link: https://gitter.im/squidfunk/mkdocs-material
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/squidfunk
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/squidfunk/
+      link: https://github.com/esead
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/seadufrb
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/squidfunk
+      link: https://instagram.com/ufb_sead
 
 # Extensions
 # Equations
@@ -129,27 +123,18 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Getting started: getting-started.md
-  - Extensions:
-    - Admonition: extensions/admonition.md
-    - CodeHilite: extensions/codehilite.md
-    - Footnotes: extensions/footnotes.md
-    - Metadata: extensions/metadata.md
-    - Permalinks: extensions/permalinks.md
-    - PyMdown: extensions/pymdown.md
-  - Plugins:
-    - Search: plugins/search.md
-    - Minification: plugins/minification.md
-    - Revision date: plugins/revision-date.md
-    - Awesome pages: plugins/awesome-pages.md
-  - Releases:
-    - Upgrading to 5.x: releases/5.md
-    - Upgrading to 4.x: releases/4.md
-    - Changelog: releases/changelog.md
-  - Customization: customization.md
-  - Data privacy: data-privacy.md
-  - Contributing: contributing.md
-  - License: license.md
+  - Sobre:
+    - Home: sobre/index.md
+  - Explore:
+    - E-books: explore/index.md
+  - Limite:
+    - Definição: limite/definicao.md
+    - Propriedades: limite/propriedades.md
+    - Continuidade: limite/continuidade.md
+    - Infinitos: limite/infinitos.md
+    - No infinito: limite/no-infinito.md
+    - Fundamentais: limite/fundamentais.md
+    - Licença: limite/creative-commons.md 
   - O Papel do Fiscal na Administração Pública:
     - Capa: o-papel-do-fiscal-na-administracao-publica/capa.md
     - Autora: o-papel-do-fiscal-na-administracao-publica/contra-capa.md
@@ -201,8 +186,25 @@ nav:
     - Percepção e Análise Ambiental: tecnologias-educacao-digital/percepcao.md
     - Ferramentas para a Leitura de Ambientes: tecnologias-educacao-digital/ferramentas.md
     - Referências': tecnologias-educacao-digital/referencias.md
-    - Capa fundo': tecnologias-educacao-digital/capa-fundo.md 
-
+    - Capa fundo': tecnologias-educacao-digital/capa-fundo.md
+  - Derivada:
+    - Definição: derivada/definicao.md
+    - Propriedades: derivada/propriedades.md
+    - Licença: derivada/creative-commons.md
+  - Aplicações:
+    - Definição: aplicacao/definicao.md
+    - Propriedades: aplicacao/propriedades.md
+    - Licença: aplicacao/creative-commons.md
+  - Integral:
+    - Definição: integral/definicao.md
+    - Propriedades: integral/propriedades.md
+    - Licença: integral/creative-commons.md
+  - Listas:
+    - Limite: listas/limite.md
+    - Derivada: listas/derivada.md
+    - Aplicações: listas/aplicacao.md
+    - Integral: listas/integral.md
+    - Licença: derivada/creative-commons.md
 # Google Analytics
 google_analytics:
   - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]

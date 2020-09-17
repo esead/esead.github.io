@@ -37,8 +37,8 @@
 
     .tx-containo {
         padding-top: 1rem;
-        padding: 3rem;
-        background: linear-gradient(to bottom, var(--md-primary-fg-color), hsla(280deg, 67%, 55%, 1) 99%, #fff 99%)
+        padding: 1rem;
+        background:white
     }
 
    
@@ -167,7 +167,6 @@
         }
 
         .feature-item:hover {
-            background-color: white;
             border-radius: 3px;
         }
     }
@@ -194,7 +193,7 @@
         font-family: inherit;
         text-decoration-color: #f1f1f1;
         line-height: 1.1;
-        color: white;
+        color:rgb(7, 65, 92);
         margin-top: 0;
 
     }
@@ -204,7 +203,7 @@
         font-size: 36px;
         font-family: inherit;
         line-height: 1.1;
-        color: inherit;
+        color: rgb(7, 65, 92);
         margin-top: 0;
     }
 
@@ -212,6 +211,7 @@
         width: 50%;
         margin: auto;
         font-size: 20px;
+        color: rgb(36, 85, 87);
     }
 
     .open-source .github-stars {
@@ -346,32 +346,25 @@
         -webkit-print-color-adjust: exact;
         color-adjust: exact;
     }
-    .card {
-        background: #eee;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-        max-width: 300px;
-        margin: 10px;
-        text-align: center;
-        font-family: arial;
-        border-radius: 5px;
-}
 
+img {
+  border-radius: 5px 5px 5px 5px;
+  width: 80%;
+  height: auto;
+}
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 50%;
-  padding: 0 20px;
-}
-
-img {
-  border-radius: 5px 5px 0 0;
+  width: 30%;
+  padding: 0 10px;
 }
 
 /* Remove extra left and right margins, due to padding */
-.row {margin: 0 -5px;}
+.row {margin: 0 -20px;}
 
 /* Clear floats after the columns */
 .row:after {
+  content: "";
   display: table;
   clear: both;
 }
@@ -382,36 +375,38 @@ img {
     width: 100%;
     display: block;
     margin-bottom: 20px;
-    padding: 50px;
   }
 }
 
 /* Style the counter cards */
 .card {
-  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2);
+  font-size: 50px;
+  width: 200px;
+  height: 300px;
+  box-shadow: 0 8px 14px 0 rgb(49, 106, 145);
   padding: 0px;
   text-align: center;
-  background-color: #f1f1f1;
+  background-color:white;
   border-radius: 5px;
 }
 
     /* Parte inicial */
 </style>
-  <style>.md-header{position:initial}.md-main__inner{margin:0}.md-content{display:none}.tx-container{padding-top:1rem;background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 -600 7582 2480'><path d='M47 775c375,66 707,166 1006,294 132,59 250,129 343,208 54,45 116,79 172,116 187,128 425,168 707,128 1152,-153 2280,-372 3411,-582 651,-96 1297,-162 1932,-174 0,363 0,726 0,1090 -2525,0 -5050,0 -7775,1 2,-361 3,-721 4,-1081z' style='fill: white' /></svg>") no-repeat bottom,linear-gradient(to bottom,var(--md-primary-fg-color),#a53fd9 99%,#fff 99%)}.tx-hero{margin:0 .8rem;color:var(--md-primary-bg-color)}.tx-hero h1{margin-bottom:1rem;color:currentColor;font-weight:700}.tx-hero__content{padding-bottom:6rem}.tx-hero .md-button{margin-top:.5rem;margin-right:.5rem;color:var(--md-primary-bg-color)}.tx-hero .md-button--primary{background-color:var(--md-primary-bg-color);color:hsla(280deg,37%,48%,1);border-color:var(--md-primary-bg-color)}.tx-hero .md-button:focus,.tx-hero .md-button:hover{background-color:var(--md-accent-fg-color);color:var(--md-default-bg-color);border-color:var(--md-accent-fg-color)}@media screen and (max-width:30em){.tx-hero h1{font-size:1.4rem}}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}.tx-hero{display:flex;align-items:stretch}.tx-hero__content{max-width:19rem;margin-top:3.5rem;padding-bottom:14vw}.tx-hero__image{width:38rem;order:1;transform:translateX(4rem)}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none}.tx-hero__image{transform:translateX(8rem)}}</style>
+<style>.md-header{position:initial}.md-main__inner{margin:0}.md-content{display:none}.tx-container{padding-top:1rem;background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 -600 7582 2480'><path d='M47 775c375,66 707,166 1006,294 132,59 250,129 343,208 54,45 116,79 172,116 187,128 425,168 707,128 1152,-153 2280,-372 3411,-582 651,-96 1297,-162 1932,-174 0,363 0,726 0,1090 -2525,0 -5050,0 -7775,1 2,-361 3,-721 4,-1081z' style='fill: white' /></svg>") no-repeat bottom,linear-gradient(to bottom,var(--md-primary-fg-color),rgb(49, 106, 145) 99%,#fff 99%)}.tx-hero{margin:0 .8rem;color:var(--md-primary-bg-color)}.tx-hero h1{margin-bottom:1rem;color:currentColor;font-weight:700}.tx-hero__content{padding-bottom:6rem}.tx-hero .md-button{margin-top:.5rem;margin-right:.5rem;color:var(--md-primary-bg-color)}.tx-hero .md-button--primary{background-color:var(--md-primary-bg-color);color:hsla(280deg,37%,48%,1);border-color:var(--md-primary-bg-color)}.tx-hero .md-button:focus,.tx-hero .md-button:hover{background-color:var(--md-accent-fg-color);color:var(--md-default-bg-color);border-color:var(--md-accent-fg-color)}@media screen and (max-width:30em){.tx-hero h1{font-size:1.4rem}}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}.tx-hero{display:flex;align-items:stretch}.tx-hero__content{max-width:19rem;margin-top:3.5rem;padding-bottom:14vw}.tx-hero__image{width:38rem;order:1;transform:translateX(4rem)}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none}.tx-hero__image{transform:translateX(8rem)}}</style>
   <section class="tx-container">
     <div class="md-grid md-typeset">
       <div class="tx-hero">
         <div class="tx-hero__image">
-          <img src="assets/images/illustration_2.png" alt="" width="1659" height="1200" draggable="false">
+          <img src="assets/images/illustration.png" alt="">
         </div>
         <div class="tx-hero__content">
-          <h1>Uma nova experiência na leitura de e-books</h1>
-          <p>{{ config.site_description }}.</p>
+          <h1>Uma nova experiência na visualização de e-books</h1>
+          <p>{{ config.site_description }}</p>
           <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | striptags }}" class="md-button md-button--primary">
             Explorar
           </a>
-          <a href="{{ config.repo_url }}" title="{{ lang.t('source.link.title') }}" class="md-button">
-            Outros projetos
+          <a href="https://www.ufrb.edu.br/sead/" title="CETENS" class="md-button">
+            SEAD
           </a>
         </div>
       </div>
@@ -420,103 +415,89 @@ img {
 
   <!-- # Aqui é o banner de ebooks-->
   <section class="tx-containo">
-    <div class="md-grid md-typeset">
+    <div class="md-grid md-typeset"></div>
       <div class="explore">
-        <h1>Explore e-books</h1>
+        <h1>Explore</h1>
        </div>
       <div class="tx-hero">
 
-        
-        <!-- 
-        <div class="tx-hero__image">
-          <img src="assets/images/illustration.png" alt="" width="1659" height="1200" draggable="false">
-        </div>
-        <div class="tx-hero__content">
-          <h1>Uma nova experiência na leitura de e-books</h1>
-          <p>{{ config.site_description }}.</p>
-          <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | striptags }}" class="md-button md-button--primary">
-            Explorar
+        <div class="column">
+          <div class="card">
+          <a href="/o-papel-do-fiscal-na-administracao-publica/capa/" title="{{ page.next_page.title | striptags }}">
+             <img src="../assets/images/ebook_1.png" alt="" style="width: 100%; height: auto;">  
           </a>
-          <a href="{{ config.repo_url }}" title="{{ lang.t('source.link.title') }}" class="md-button">
-            Outros projetos
-          </a>
-        </div>
-      -->
-  <div class="column">
-    <div class="card">
-    <a href="https://seadufrb.github.io/ebooks/leitura-de-ambientes-da-mineracao/capa/">
-      <img src="assets/images/illustration.png" alt="Avatar" style="width:100%"></a>
-    </div>
- </div>
-
-
- <div class="column">
-  <div class="card">
-  <a href="https://seadufrb.github.io/ebooks/leitura-de-ambientes-da-mineracao/capa/">
-    <img src="assets/images/illustration.png" alt="Avatar" style="width:100%"></a>
-  </div>
-</div>
-
-<div class="column">
-   <div class="card">
-    <a href="https://seadufrb.github.io/ebooks/o-papel-do-fiscal-na-administracao-publica/capa/">
-      <img src="assets/images/illustration.png" alt="Avatar" style="width:100%"></a>
-   </div>
-</div>
-<br>
+          </div>
       </div>
+      <div class="column">
+          <div class="card">
+          <a href="leitura-de-ambientes-da-mineracao/capa/" title="{{ page.next_page.title | striptags }}">
+             <img src="../assets/images/ebook_1.png" alt="" style="width: 100%; height: auto;">  
+          </a>
+          </div>
+      </div>
+      <div class="column">
+          <div class="card">
+          <a href="leitura-de-ambientes-da-mineracao/capa/" title="{{ page.next_page.title | striptags }}">
+             <img src="../assets/images/ebook_1.png" alt="" style="width: 100%; height: auto;">  
+          </a>
+          </div>
+      </div>
+
+      <div class="column">
+        <div class="card">
+        <a href="leitura-de-ambientes-da-mineracao/capa/" title="{{ page.next_page.title | striptags }}">
+           <img src="../assets/images/ebook_1.png" alt="" style="width: 100%; height: auto;">  
+        </a>
+        </div>
     </div>
+      
+      </div>
   </section>
 
 
 
 <!-- github描述开始 -->
 <section class="caixa-marcas">
-<div class="open-source">
-
-    <div class="feature-item">
-        
-    </div>
-
-    <div class="feature-item">
-        
-    </div>
- <h1>Open Source</h1>
-</div>
-
-<div class="open-source">
-</div>
-<!-- CNCF结束 -->
-</section>
-
-  <div class="md-footer-meta md-typeset">
-    <div class="md-footer-meta__inner md-grid">
-      <div class="md-footer-copyright">
-        {% if config.copyright %}
-          <div class="md-footer-copyright__highlight">
-            {{ config.copyright }}
-          </div>
-        {% endif %}
-        Todo o conteúdo deste site está publicado sob a licença 
-        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">
-          Creative Commons CC BY-SA 4.0 Brasil
-        </a>
+  <div class="open-source">
+    <h1>Iniciativa</h1> 
+    <p><strong>Núcleo de Mídias/SEAD</strong></p>  
+    <img src="assets/images/marca-sead.png" alt="">  
+  </div>
+  
+  <div class="open-source">
+  </div>
+  <!-- CNCF结束 -->
+  </section>
+  
+    <div class="md-footer-meta md-typeset">
+      <div class="md-footer-meta__inner md-grid">
+        <div class="md-footer-copyright">
+          {% if config.copyright %}
+            <div class="md-footer-copyright__highlight">
+              {{ config.copyright }}
+            </div>
+          {% endif %}
+          Todo o conteúdo deste site está publicado sob a licença 
+          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">
+            Creative Commons CC BY-SA 4.0 Brasil
+          </a>
+        </div>
+        {% include "partials/social.html" %}
       </div>
-      {% include "partials/social.html" %}
+    </div>
+  </footer>
+  
+  <div vw class="enabled">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+      <div class="vw-plugin-top-wrapper"></div>
     </div>
   </div>
-</footer>
-
-<div vw class="enabled">
-  <div vw-access-button class="active"></div>
-  <div vw-plugin-wrapper>
-    <div class="vw-plugin-top-wrapper"></div>
-  </div>
-</div>
-<script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
-<script>
-  new window.VLibras.Widget('https://vlibras.gov.br/app');
-</script>
-{% endblock %}
-{% block content %}{% endblock %}
-{% block footer %}{% endblock %}
+  <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+  <script>
+    new window.VLibras.Widget('https://vlibras.gov.br/app');
+  </script>
+  {% endblock %}
+  {% block content %}{% endblock %}
+  {% block footer %}{% endblock %}
+  
