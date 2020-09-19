@@ -1,3 +1,4 @@
+# **E-books disponíveis** 
 
 <style>
 img {
@@ -36,7 +37,10 @@ img {
   font-size: 50px;
   width: 200px;
   height: 300px;
-  box-shadow: 0 8px 14px 0 rgb(49, 106, 145);
+  /* box-shadow: 0 8px 14px 0 rgb(49, 106, 145); */
+  box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
+  cursor: pointer;
+  transition: 0.4s;
   padding: 0px;
   text-align: center;
   background-color:white;
@@ -45,58 +49,86 @@ img {
   margin-left: 20px;
 }
 
-    /* Parte inicial */
+.card:hover {
+  transform: scale(0.9, 0.9);
+  box-shadow: 5px 5px 30px 15px rgba(0,0,0,0.25), 
+    -5px -5px 30px 15px rgba(0,0,0,0.22);
+}
+/* Parte inicial */
 </style>
 
-
-
 <div class="column">
     <div class="card">
-    <a href="/o-papel-do-fiscal-na-administracao-publica/capa/" title="{{ page.next_page.title | striptags }}">
-       <img src="../assets/images/ebook_1.png" alt="" >  
-    </a>
-    </div>
-</div>
-<div class="column">
-    <div class="card">
-    <a href="leitura-de-ambientes-da-mineracao/capa/" title="{{ page.next_page.title | striptags }}">
-       <img src="../assets/images/ebook_1.png" alt="" >  
-    </a>
-    </div>
-</div>
-<div class="column">
-    <div class="card">
-    <a href="leitura-de-ambientes-da-mineracao/capa/" title="{{ page.next_page.title | striptags }}">
-       <img src="../assets/images/ebook_1.png" alt="" >  
-    </a>
+        <a href="/o-papel-do-fiscal-na-administracao-publica/capa/" title="O papel do fiscal na administração pública">
+        <img src="../assets/images/papel_do_fiscal_na_adm.png" alt="" style="width: 100%; height: auto;">  
+          </a>
     </div>
 </div>
 
+<div class="column">
+    <div class="card">
+        <a href="leitura-de-ambientes-da-mineracao/capa/" title="{{ page.next_page.title | striptags }}">
+             <img src="../assets/images/ebook_1.png" alt="" style="width: 100%; height: auto;">  
+         </a>
+    </div>
+</div>
+
+<div class="column">
+    <div class="card">
+        <a href="https://esead.github.io/convite-formatura/" title="convite-formatura">
+             <img src="../assets/images/convite_fomatura_lic_mat_2018_2.png" alt="" style="width: 100%; height: auto;">  
+        </a>
+    </div>
+</div>
+<!-- novo bloco-->
  <br>
  <br>          
 <div class="column">
     <div class="card">
-    <a href="/o-papel-do-fiscal-na-administracao-publica/capa/" title="{{ page.next_page.title | striptags }}">
-       <img src="../assets/images/ebook_1.png" alt="" >  
+    <a href="https://esead.github.io/convite-formatura-2/" title="Convite convite-formatura-2">
+        <img src="../assets/images/convite_fomatura_lic_mat_2019_1.png" alt="" style="width: 100%; height: auto;">  
     </a>
     </div>
 </div>
 <div class="column">
     <div class="card">
-    <a href="leitura-de-ambientes-da-mineracao/capa/" title="{{ page.next_page.title | striptags }}">
-       <img src="../assets/images/ebook_1.png" alt="" >  
-    </a>
-    </div>
+        <a href="/ii-sited-anais/capa" title="Anais do II SITED">
+           <img src="../assets/images/ii_sited_anais.png" alt="" style="width: 100%; height: auto;">  
+        </a>
+     </div>
 </div>
 <div class="column">
     <div class="card">
-    <a href="leitura-de-ambientes-da-mineracao/capa/" title="{{ page.next_page.title | striptags }}">
-       <img src="../assets/images/ebook_1.png" alt="" >  
-    </a>
+        <a href="/tecnologias-educacao-digital/capa" title="Tecnologias e Educação Digital">
+           <img src="../assets/images/tecnologias_educacao_digital.png" alt="" style="width: 100%; height: auto;">  
+        </a>
     </div>
 </div>
-
+<!-- novo bloco-->
+ <br>
+ <br> 
+<div class="column">
+    <div class="card">
+        <a href="/guia-de-producao-de-material-didatico/capa" title="Guia de Produção de Material Didático">
+           <img src="../assets/images/guia_material_didatico.png" alt="" style="width: 100%; height: auto;">  
+        </a>
+    </div>
+ </div>
   
+<div class="column">
+    <div class="card">
+        <a href="leitura-de-ambientes-da-mineracao/capa/" title="{{ page.next_page.title | striptags }}">
+             <img src="../assets/images/ebook_1.png" alt="" style="width: 100%; height: auto;">  
+         </a>
+    </div>
+</div>
 
+<div class="column">
+    <div class="card">
+        <a href="leitura-de-ambientes-da-mineracao/capa/" title="{{ page.next_page.title | striptags }}">
+             <img src="../assets/images/ebook_1.png" alt="" style="width: 100%; height: auto;">  
+         </a>
+    </div>
+</div>
 
 

@@ -178,15 +178,18 @@ nav:
     - Autores: tecnologias-educacao-digital/contra-capa.md
     - Licença:  tecnologias-educacao-digital/creative-commons.md
     - Produção: tecnologias-educacao-digital/producao.md
-    - Apresentação: tecnologias-educacao-digital/apresentacao.md
-    - Introdução: tecnologias-educacao-digital/introducao.md
-    - Ambiente Terrestre e Diversidade: tecnologias-educacao-digital/ambiente.md
-    - Recursos Minerais e Energéticos da Terra: tecnologias-educacao-digital/recursos.md
-    - Alterações do Ambiente pela Atividade de Mineração: tecnologias-educacao-digital/alteracoes.md
-    - Percepção e Análise Ambiental: tecnologias-educacao-digital/percepcao.md
-    - Ferramentas para a Leitura de Ambientes: tecnologias-educacao-digital/ferramentas.md
-    - Referências': tecnologias-educacao-digital/referencias.md
-    - Capa fundo': tecnologias-educacao-digital/capa-fundo.md
+  - II SITED - Anais:
+    - Capa: ii-sited-anais/capa.md
+    - Comissão Organizadora: ii-sited-anais/comissao-organizadora.md
+    - Comitê Científico: ii-sited-anais/comite-cientifico.md
+    - Licença: ii-sited-anais/creative-commons.md
+    - Eixo I: ii-sited-anais/eixo-1.md
+    - Capítulo 1: ii-sited-anais/capitulo-1.md
+    - Capítulo 2: ii-sited-anais/capitulo-2.md
+    - Capítulo 3: ii-sited-anais/capitulo-3.md
+    - Capítulo 4: ii-sited-anais/capitulo-4.md
+    - Capítulo 5: ii-sited-anais/capitulo-5.md
+    - Capa fundo: ii-sited-anais/capitulo-fundo.md
   - Derivada:
     - Definição: derivada/definicao.md
     - Propriedades: derivada/propriedades.md
