@@ -207,18 +207,4 @@ desse passado geológico, considerando as mudanças, boas e más, que nos aguard
 
 
 
-<p style="text-align: justify;">
-
-
-<p>
-
-
-
-<p style="text-align: justify;">
-
-
-<p>
-
-
-
 

@@ -117,9 +117,9 @@ img {
   
 <div class="column">
     <div class="card">
-        <a href="leitura-de-ambientes-da-mineracao/capa/" title="{{ page.next_page.title | striptags }}">
-             <img src="../assets/images/ebook_1.png" alt="" style="width: 100%; height: auto;">  
-         </a>
+      <a href="/modelo-pedagogico-virtual-ufrb/capa" title="{{ page.next_page.title | striptags }}">
+         <img src="../assets/images/modelo_pedagogico_ufrb.png" alt="" style="width: 100%; height: auto;">  
+      </a>
     </div>
 </div>
 

@@ -1,5 +1,4 @@
 <style>
-
 body { 
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -53,20 +52,15 @@ body {
   background-origin: content-box;
   background-position: center;
 }
-
 </style>
-
+ 
 
 
 <div id="example3">
-
 <center> 
-<img src="../imagens/capa-tecnologias.jpg" alt="Avatar" style="width:60%">
-
+<img src="../imagens/capa.jpg" alt="capa" style="width:60%">
 <br>
 <button class="button"><a href="https://www.dropbox.com/s/810a1e87xfvwgld/tecnologias_educacao_digital-v6-digital.pdf?dl=0" target="_blank"><span style="color:#FFF"> Ebook PDF </a></span></button>
-
 </center>
-
-
 </div>
+
