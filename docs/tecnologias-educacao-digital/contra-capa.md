@@ -1,5 +1,5 @@
 
-# Autores 
+# Organizadores 
 
 <style>
 

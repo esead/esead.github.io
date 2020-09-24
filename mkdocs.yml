@@ -57,7 +57,7 @@ theme:
     primary: blue
     accent: blue
   font:
-    text: Roboto
+    text: Helvetica
     code: Roboto Mono
   icon:
     logo: logo
@@ -65,12 +65,15 @@ theme:
 
 # Plugins
 plugins:
+  - macros
   - search
   - minify:
       minify_html: true
 
 # Customization
 extra:
+  unit:
+    price: 22.48
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/esead
@@ -82,8 +85,13 @@ extra:
 # Extensions
 # Equations
 extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 markdown_extensions:
+  - attr_list
+  - def_list
   - markdown.extensions.admonition
   - markdown.extensions.attr_list
   - markdown.extensions.codehilite:
@@ -118,6 +126,7 @@ markdown_extensions:
   - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true
+      clickable_checkbox: true
   - pymdownx.tilde
 
 # Page tree
@@ -175,7 +184,7 @@ nav:
     - Capa fundo: guia-de-producao-de-material-didatico/capa-fundo.md
   - Tecnologias e Educação Digital:
     - Capa: tecnologias-educacao-digital/capa.md
-    - Autores: tecnologias-educacao-digital/contra-capa.md
+    - Organizadores: tecnologias-educacao-digital/contra-capa.md
     - Licença:  tecnologias-educacao-digital/creative-commons.md
     - Produção: tecnologias-educacao-digital/producao.md
     - Capítulo 1: tecnologias-educacao-digital/capitulo-1.md
@@ -188,8 +197,8 @@ nav:
     - Capítulo 8: tecnologias-educacao-digital/capitulo-8.md
     - Capítulo 9: tecnologias-educacao-digital/capitulo-9.md
     - Capítulo 10: tecnologias-educacao-digital/capitulo-10.md
-    - Organizadores: tecnologias-educacao-digital/organizadores.md
-    - Autores: tecnologias-educacao-digital/autores.md
+    - Sobre Organizadores: tecnologias-educacao-digital/organizadores.md
+    - Sobre Autores: tecnologias-educacao-digital/autores.md
 
 
   - Modelo Pedagógico Virtual UFRB:
