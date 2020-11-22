@@ -78,31 +78,39 @@ p.combinado:first-letter {
 ![Legenda](../imagens/capitulo.png)
 
 
-<div class="a">
+<div style="text-align: right"> 
+    <p><em>Lynn Alves</em></p> 
+    <p><em>Velda Torres</em></p> 
+    <p><em>Isa Neves</em></p> 
+ </div>
+
+
+
 <p style="text-align: justify;">
 O <em>smartphone</em> é um dos dispositivos móveis (DM) mais utilizados na
 sociedade contemporânea, contribuindo para tornar seus usuários cada vez
 mais conectados, incluindo as crianças e os adolescentes (ALVES; TORRES,
 2017; CLARO; MERCONI E LORETO, 2013; TORRES; FRAGA; ALVES; COUTO, 2017).
 </p>
-</div>
 
-<p style="text-align: justify;">
+
+
 A pesquisa realizada pela Panorama <em>Mobile</em> Time/Opinion Box -- Uso de
-apps no Brasil no Brasil\footnote{PAIVA, Fernando. Panorama Mobile
-	Time/Opinion Box -- Uso de apps no Brasil - Novembro de 2017
-	Disponível na URL:
-	\href{http://www.panoramamobilietime.com.br}{www.panoramamobilietime.com.br}.
-	Acesso 21 Dez. 2017.}, publicada em dezembro de 2017, contribui para
+apps no Brasil no Brasil[^1], publicada em dezembro de 2017, contribui para
 caracterizar essa apropriação dos smartphones ao revelar que a aquisição
 e o uso desses dispositivos pelos brasileiros é superior a três anos
-(62\%), sendo o Android o sistema operacional mais utilizado (89\%). A
-maioria dos usuários (98\%) baixa aplicativos com frequência, sendo os
-gratuitos os mais consumidos, pois apenas 19\% dos entrevistados
+(62%), sendo o Android o sistema operacional mais utilizado (89%). A
+maioria dos usuários (98%) baixa aplicativos com frequência, sendo os
+gratuitos os mais consumidos, pois apenas 19% dos entrevistados
 afirmaram comprar os aplicativos que usam. A pesquisa também revelou que
-os usuários dos smartphones (56\%) utilizam esses dispositivos para
+os usuários dos smartphones (56%) utilizam esses dispositivos para
 jogar e fazer download de diversos conteúdos, entre outras ações.
-</p>
+
+[^1]: PAIVA, Fernando. Panorama Mobile
+	Time/Opinion Box -- Uso de apps no Brasil - Novembro de 2017
+	Disponível na URL:
+	[http://www.panoramamobilietime.com.br](www.panoramamobilietime.com.br).
+	Acesso 21 Dez. 2017.
 
 <p style="text-align: justify;">
 Nos espaços de aprendizagem escolares, essa participação das tecnologias
@@ -162,8 +170,8 @@ comunicação, assumindo uma postura mais interativa, invertendo a lógica
 comunicativa:
 </p>
 
-<p class="recuo">
-	... a centralidade das mídias é substituída pela centralidade dos
+
+> ... a centralidade das mídias é substituída pela centralidade dos
 	sujeitos. São eles que se tornam protagonistas de um cenário social e
 	cultural caracterizado por uma multiplicação de telas disponíveis (às
 	telas da televisão se acrescentam as telas do computador, celular,
@@ -171,7 +179,7 @@ comunicativa:
 	segunda tela]) e pela navegação de uma a outra dessas telas que são
 	guiadas pelo interesse pessoal e pela necessidade do momento (Fantini;
 	Rivoltella 2010, p.91).
-</p>
+
 
 <p style="text-align: justify;">
 Conforme analisa Santaella (2007, p.233), esses DM são ``pequenas
@@ -372,14 +380,14 @@ Ao analisar esse imbricamento entre a mobilidade física e a
 informacional, Lemos (2009, p.29) salienta que
 </p>
 
-<p class="recuo">
-Um tipo de mobilidade tem sempre impacto sobre outro. A mobilidade
+
+> Um tipo de mobilidade tem sempre impacto sobre outro. A mobilidade
 informacional-virtual tem impactos diretos sobre a mobilidade física e
 sobre o lugar e o espaço onde opera, e vice-versa. Não podemos dissociar
 comunicação, mobilidade, espaço e lugar. A comunicação é uma forma de
 ``mover'' informação de um lugar para outro, produzindo sentido,
 subjetividade, espacialização.
-</p> 
+
 
 <p style="text-align: justify;">
 Para Klopfer (2011), a concepção de mobilidade vai além do suporte,
@@ -391,12 +399,12 @@ sentido, o autor analisa que
 </p>
 
  
-> A mobilidade requer a capacidade de usar casualmente um dispositivo em movimento - sem sentar-se. Embora    isso possa parecer arbitrário, é importante porque influencia a maneira como usamos esses dispositivos. Eles não são apenas para sessões focadas longamente, mas também podem ser usados para interações curtas ocorrendo por meros segundos no contexto de alguma outra atividade relacionada  (ou não relacionada)[^1]
+> A mobilidade requer a capacidade de usar casualmente um dispositivo em movimento - sem sentar-se. Embora    isso possa parecer arbitrário, é importante porque influencia a maneira como usamos esses dispositivos. Eles não são apenas para sessões focadas longamente, mas também podem ser usados para interações curtas ocorrendo por meros segundos no contexto de alguma outra atividade relacionada  (ou não relacionada)[^2]
 (KLOPFER, 2011, p.7).
  
 
 
-[^1]: Mobility requires the ability to casually use a device on the
+[^2]: Mobility requires the ability to casually use a device on the
 go --- without sitting down. While this may seem arbitrary it is
 important in that it influences the way we use these devices. They
 aren't only for long focused sessions, but can also be used for
@@ -419,7 +427,7 @@ sentado, apesar de não ser um modo muito apropriado e confortável para o
 usuário.
 </p>
 
-Klopfer (2011)[^2], numa
+Klopfer (2011)[^3], numa
 interlocução com Klopfer e Squire (2007), indica cinco fatores que são
 __affordances__ dos Dispositivos Móveis para aprendizagem:
 portabilidade, interatividade social, sensibilidade ao contexto,
@@ -440,7 +448,7 @@ como uma ''[...] Inteligência distribuída por toda parte,
 incessantemente valorizada, coordenada em tempo real, que resulta em
 mobilização efetiva das competências''.
 
-[^2]: This is the first of several defining factors
+[^4]: This is the first of several defining factors
 	that Kurt Squire and I (Klopfer foreword/preface by Eric Klopfer \&
 	Squire 2007) outlined as being unique affordances of mobile devices
 	for learning. The relevance of these five affordances has only
@@ -455,7 +463,7 @@ mobilização efetiva das competências''.
 	unique scaffolding that is customized to the individual's path of
 	investigation. The devices we had at hand at the tim.
 
-[^3]: Esse entendimento de Klopfer (2011) sobre a
+[^4]: Esse entendimento de Klopfer (2011) sobre a
 portabilidade dialoga com os argumentos que apresentamos acima, quando
 discordarmos da exclusão do laptop/notebook como dispositivos móveis.
 No entanto, não é esse entendimento sobre portabilidade que apoia sua
@@ -468,10 +476,10 @@ pares, permite também a experiência pessoal do usuário que pode
 customizar o seu ambiente de interações e possibilidades, através de
 diferentes __scaffoldings__ (assistências), caracterizando o fator
 individualidade pontuado por Klopfer (2011). Para Wood __et. al.__
-(1976), scaffolding[^4] refere-se a ''Aqueles
+(1976), scaffolding[^5] refere-se a ''Aqueles
 elementos da tarefa que estão, inicialmente, além da capacidade do
 aluno, permitindo-lhe, assim, concentrar-se e completar apenas os
-elementos que estão dentro do seu alcance de competência''[^5]. Este conceito tem
+elementos que estão dentro do seu alcance de competência''[^6]. Este conceito tem
 se tornado sinônimo de Zona de Desenvolvimento Proximal -- ZDP nas
 literaturas sobre essa temática, mas é importante ressaltar que Vygotsky
 (1984) nunca utilizou o conceito de __scaffoldings__. Pressupomos que
@@ -481,11 +489,11 @@ signos são mediadores para construção de novos conceitos, se
 constituindo em um espaço de ``assistência'' para produção de saberes.
 
 
-[^4]: Em inglês andaime. O andaime é um artefato
+[^5]: Em inglês andaime. O andaime é um artefato
 tecnológico utilizado nas construções para que os operários possam
 utilizar como apoio para realizar a obra.
 
-[^5]: ''Those elements of the task that are initially beyond the learner´s capacity,
+[^6]: ''Those elements of the task that are initially beyond the learner´s capacity,
 thus permitting him to concentrate upon and complete only those
 elements that are within his range of competence.''
 
@@ -532,9 +540,9 @@ Lemos (2007) os define como Dispositivos Híbridos de Conexão Multirrede
 (DH-
 MCM), em virtude da potência comunicativa que possuem, associada ao
 uso da voz, texto e imagens (foto, vídeos), da conexão em rede que
-permitem e da mobilidade por territórios informacionais[^6].
+permitem e da mobilidade por territórios informacionais[^7].
 
-[^6]: Lemos (2004) define como territórios informacionais as áreas de controle do
+[^7]: Lemos (2004) define como territórios informacionais as áreas de controle do
 fluxo informacional digital localizadas em uma zona de intersecção
 entre o ciberespaço e o espaço urbano, cujo acesso e controle
 informacional ocorre a partir de dispositivos móveis e rede wifi. Não
@@ -562,7 +570,7 @@ para motivar a participação ativa do aluno.
 
 
 A pesquisa realizada pela Panorama Mobile Time/Opinion Box -- Uso de
-apps no Brasil no Brasil[^7], publicada em dezembro de 2017, contribui para
+apps no Brasil no Brasil[^8], publicada em dezembro de 2017, contribui para
 caracterizar os modos de interação no ambiente digital, ao revelar os
 aplicativos relacionados a comunicação e entretenimento como os mais
 utilizados, sendo, respectivamente, o whatsApp (50%) e os jogos (68%)
@@ -572,7 +580,7 @@ Deezer (5%) e Globo Play (4%) também foram citados entre os favoritos
 pelos entrevistados.
 
 
-[^7]: PAIVA, Fernando. Panorama Mobile
+[^8]: PAIVA, Fernando. Panorama Mobile
 Time/Opinion Box -- Uso de apps no Brasil - Novembro de 2017
 Disponível na URL: [http://www.panoramamobilietime.com.br](www.panoramamobilietime.com.br).
 Acesso 21 Dez. 2017.
@@ -593,9 +601,9 @@ web, diferindo-se de um ano atrás quando 66% dos participantes
 registraram que preferiam navegar pela internet com seus handsets. Na
 média diária dos entrevistados, o uso de Internet em dispositivos móveis
 foi de 3 horas e 34 minutos, um crescimento de 6% se compararmos ao
-tempo do ano passado de 3 horas e 14 minutos[^8].
+tempo do ano passado de 3 horas e 14 minutos[^9].
 
-[^8]: MEDEIROS, Henrique. Maioria dos brasileiros com smartphone preferem acessar a
+[^9]: MEDEIROS, Henrique. Maioria dos brasileiros com smartphone preferem acessar a
 web pelo dispositivo. 17 de novembro de 2017. Disponível na URL:
 [http://m.mobiletime.com.br/news/481523](http://m.mobiletime.com.br/news/481523). Acesso 19 Nov. 2017.
 
@@ -614,9 +622,9 @@ Demand) serão um dos principais impulsionadores do crescimento, com os
 maiores jogadores OTT (Over The Top), como Netflix e Amazon, com mais de
 US$ 5 bilhões para o conteúdo original no próximo ano. Enquanto isso, a
 Apple e o Facebook devem investir pelo menos US$ 1 bilhão pela primeira
-vez[^9].
+vez[^10].
 
-[^9]: Mercado de conteúdo digital vai superar a casa dos US$
+[^10]: Mercado de conteúdo digital vai superar a casa dos US$
 200 bilhões em 2018. 07 Nov. 2017. Disponível na URL:
 [https://goo.gl/eemvfn](https://goo.gl/eemvfn). Acesso 10 Nov. 2017.
 
@@ -686,7 +694,7 @@ pela Ubisoft, o jogador, ao iniciar, pode ter acesso a informações sobre
 a I Guerra Mundial que o orientam a entender o contexto dos desafios,
 inclusive com fatos ocorridos naquele dia/período no Brasil.
 
-Para desenhar práticas gamificadas Chou[^9], criou um framework denominado,
+Para desenhar práticas gamificadas Chou[^11], criou um framework denominado,
 [_Octalysis_](http://www.yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/),
 propondo} que a jornada do jogador se delineia através de três fases:
 descobertas (Discovery), _onboarding e scaffolding_. O autor
@@ -697,7 +705,7 @@ criatividade e feedback, 4) propriedade e posse, 5) influência e
 relacionamento social, 6) escassez e impaciência, 7) imprevisibilidade e
 curiosidade, 8) perda e prevenção.
 
-[^9]: CHOU, Yu-Kai. 4
+[^11]: CHOU, Yu-Kai. 4
 Experience Phases in Gamification (#3): The Scaffolding Phase.
 Disponível na URL:
 [http://yukaichou.com/gamification-study/4-experience-phases-gamification-3-scaffolding-phase/](http://yukaichou.com/gamification-study/4-experience-phases-gamification-3-scaffolding-phase/)
@@ -821,57 +829,50 @@ Renelson Ribeiro. (Org.). **Educação, Tecnologia & Inovação**.
 1 ed. Salvador: Edufba, v. 1, (187-208). 2015.
 
 
-ALVES, L. R. G.; RIOS\href{http://lattes.cnpq.br/6199315862479662}{, V.
-S.}; CALVO, Thiago. Games e aprendizagem: trajetórias de interação. In:
-Lucena, Simone. (Org.). \textbf{Cultura digital, jogos eletrônicos e
-educação}. 1 ed. Salvador: Edufba, 2014, v. 1, (17-45). 2014.
+ALVES, L. R. G.; RIOS, V.
+S.; CALVO, Thiago. Games e aprendizagem: trajetórias de interação. In:
+Lucena, Simone. (Org.). **Cultura digital, jogos eletrônicos e educação**. 1 ed. Salvador: Edufba, 2014, v. 1, (17-45). 2014.
 
 
-AMERICAN PSYCHIATRIC ASSOCIATION (APA). \textbf{Manual Diagnóstico e
-Estatístico de Transtornos Mentais} -- DSM-V. Tradução Maria Inês
+AMERICAN PSYCHIATRIC ASSOCIATION (APA). **Manual Diagnóstico e Estatístico de Transtornos Mentais** -- DSM-V. Tradução Maria Inês
 Correia Nascimento. Porto Alegre: Artmed, 2015.
 
 
 BARROS, Priscila; HAZIN, Izabel. (2013). Avaliação das funções
 executivas na infância: Revisão dos conceitos e instrumentos. In:
-\textbf{Revista Psicologia em pesquisa}, UFJF, 7(1) 13-22. Janeiro-Junho
-de 2013. Recuperado de:
-http://www.ufjf.br/psico-
-logiaempesquisa/files/\newline{}2013/08/02-v7n1.pdf. Acesso 30 de out. de 2014.
+**Revista Psicologia em pesquisa**, UFJF, 7(1) 13-22. Janeiro-Junho de 2013. Recuperado de:
+http://www.ufjf.br/psicologiaempesquisa/files/\newline{}2013/08/02-v7n1.pdf. Acesso 30 de out. de 2014.
 
 CORDEIRO, Salete de Fátima Noro; BONILLA, Maria Helena Silveira.
 Tecnologias digitais móveis: reterritorialização dos cotidianos
-escolares.\textbf{Educ. rev.},~ Curitiba, n. 56, p. 259-275, June 2015.  Available from
+escolares. **Educ. rev.**,  Curitiba, n. 56, p. 259-275, June 2015.  Available from
 http://www.scielo.br/scielo.php?script=sci_arttext\&pid=S0104-40\602015000200259\&lng=en\&nrm=iso\textgreater{}.
 Access on 11 Nov. 2017.http://dx.doi.org/10.1590/0104-4060.39998.
 
 
 COSTA, G. L. M. Mudança da cultura docente em um contexto de trabalho
 colaborativo mediado pelas tecnologias de informação e comunicação.
-\textbf{Pesquisa Brasileira em Ciência da Informação e
-Biblioteconomia}\emph{,} v. 3, n. 2, 2008.
+**Pesquisa Brasileira em Ciência da Informação e Biblioteconomia**, v. 3, n. 2, 2008.
 
 
-DALGALARRONDO, P. \textbf{Psicopatologia e semiologia dos transtornos
-mentais}. Porto Alegre: Artmed. 2000.
+DALGALARRONDO, P. **Psicopatologia e semiologia dos transtornos mentais**. Porto Alegre: Artmed. 2000.
 
-GAZZANIGA, M. S.; HEATHERTON, T. F. \textbf{Ciência psicológica}. Porto
+GAZZANIGA, M. S.; HEATHERTON, T. F. **Ciência psicológica**. Porto
 Alegre: Artmed. 2005.
 
-GEE, James Paul. . \textbf{Lo que nos enseñan los videojuegos sobre el
-aprendizaje y el alfabetismo.} Ediciones Aljibe: Málaga, 2004.
+GEE, James Paul. . **Lo que nos enseñan los videojuegos sobre el aprendizaje y el alfabetismo.** Ediciones Aljibe: Málaga, 2004.
 
-______. \textbf{What videogames have to teach us}. New York:
+______. **What videogames have to teach us**. New York:
 Palgrave Macmillan. 2003.
 
-GOLDBERG, Elkhonon. \textbf{O cérebro executivo:} lobos frontais e mente
+GOLDBERG, Elkhonon. **O cérebro executivo:** lobos frontais e mente
 civilizada. Rio de Janeiro: Imago, 2002.
 
-JOHNSON, Steven. \textbf{Surpreendente!:} a televisão e o videogame nos
+JOHNSON, Steven. **Surpreendente!:** a televisão e o videogame nos
 tornam mais inteligentes. Rio de Janeiro: Campus. 2005.
 
 LADEWIG, I. A Importância da atenção na aprendizagem de habilidades
-motoras. \textbf{Revista Paulista de Educação Física,} supl. 3, 62-71.
+motoras. **Revista Paulista de Educação Física,** supl. 3, 62-71.
 2000.
 
 LEMOS, André. Celulares, funções pós-midiáticas, cidade e mobilidade
@@ -887,55 +888,50 @@ Porto Alegre: Artmed, 2010.
 
 MACAR, R. Atenção. In: DORON, R.; PAROT, F. (Orgs.). **Dicionário de Psicologia** (pp. 88-89). São Paulo: Ática. 2001.
 
-MORAN, J. M.; MASETTO, M. T.; BEHRENS, M. A. \textbf{Novas tecnologias e
-mediação pedagógica}\emph{.} 8 ed. Campinas, SP: Papirus, 2004.
+MORAN, J. M.; MASETTO, M. T.; BEHRENS, M. A. **Novas tecnologias e mediação pedagógica**\emph{.} 8 ed. Campinas, SP: Papirus, 2004.
 
 
 MORAN, J. M. Mudando a educação com metodologias ativas. In.: SOUZA, C.
-A.; MORALES, O. E. T. (Org.). \textbf{Convergências midiáticas, educação
-e cidadania: aproximações jovens}. Ponta Grossa: UEPG, 2015. v. 2, p.
+A.; MORALES, O. E. T. (Org.). **Convergências midiáticas, educação e cidadania: aproximações jovens**. Ponta Grossa: UEPG, 2015. v. 2, p.
 15-33. Disponível em:
 http://www2.eca.usp.br/moran/wp-content/uploads/2013/
 12/mudando_moran.pdf.
 Acesso em: 01 nov. 2017.
 
-PESSOA, L.; KASTNER, S.; UNGERLEIDER, L.G. \textbf{Neuroimaging studies
-of attention:} from modulations sensory processing to topdown control.
+PESSOA, L.; KASTNER, S.; UNGERLEIDER, L.G. **Neuroimaging studies of attention:** from modulations sensory processing to topdown control.
 The Journal of Neuroscience, 15, 2003.
 
 SANTAELLA, Lúcia. O Homem e as máquinas. In: DOMINGUES, Diana (org.).
-\textbf{A Arte no século XXI:} a humanização das tecnologias. Sao Paulo:
+**A Arte no século XXI:** a humanização das tecnologias. Sao Paulo:
 Ed. da UNESP, 1997. p.33-44.
 
-______. O mundo na palma da mão. In: \textbf{Linguagens Líquidas
-	na era da Mobilidade}. São Paulo: Paulus, 2007. 472p.
+______. O mundo na palma da mão. In: **Linguagens Líquidas na era da Mobilidade**. São Paulo: Paulus, 2007. 472p.
 
 SEABRA, A. G. et al. Modelos de funções executivas. In: SEABRA, A. G. et
-al. (Org.). \textbf{Inteligência e funções executivas:} avanços e
+al. (Org.). **Inteligência e funções executivas:** avanços e
 desafios para a avaliação neuropsicológica. São Paulo: Memnon, 2014.
 cap. 2, p. 39-50.
 
-STERNBERG, R. J.; DALGALRRONDO, P. \textbf{Psicologia cognitiva}. Porto
+STERNBERG, R. J.; DALGALRRONDO, P. **Psicologia cognitiva**. Porto
 Alegre: Artmed. 2000.
 
 
 WEINSTEIN, A. M. Computer and video game addiction-a comparison between
-game users and non-game users. \textbf{The American Journal of Drugand
-Alcohol Abuse},36(5), p.268- 76. 2010.
+game users and non-game users. **The American Journal of Drugand Alcohol Abuse**,36(5), p.268- 76. 2010.
 
 McLEOD, Saul. Zone of Proximal Development. 2010. Disponível
 em https://www.simplypsychology.org/Zone-of-Proximal-Development.html. Acesso 10 mar. 2017.
 
 SILVA, T.; MELO, J.; TEDESCO, P. A Teoria do Flow na contribuição do
 engajamento estudantil para apoiar a escolha de jogos no ensino de
-programação. In: Simpósio Brasileiro de Informática na Educação. 26, 2015. Anais eletrônicos\ldots{} Disponível em:
+programação. In: Simpósio Brasileiro de Informática na Educação. 26, 2015. Anais eletrônicos. Disponível em:
 http://www.br-ie.org/pub/index.php/sbie/arti-cle/view/5324/3687. Acesso em: 13 fev. 2016.
 
 VYGOTSKY, L. S. (1984). A Formação
 Social da Mente. São Paulo: Martins Fontes.
 
 
-WOOD, D., BRUNER, J., \& ROSS, G. The role of tutoring in problem
+WOOD, D., BRUNER, J., & ROSS, G. The role of tutoring in problem
 solving.~Journal of Child Psychology and Child Psychiatry, 1976, 17,
 89−100. Disponível em: http://onlinelibrary.wiley.com/doi/10.1111/j.
 1469-7610.1976.tb00381.x/e.pdf. Acesso 20 Mar. 2017.
@@ -988,53 +984,4 @@ VYGOTSKY, L. S. (1984). A Formação Social da Mente. São Paulo: Martins
 Fontes.
 
 
-
-<p style="text-align: justify;">
-
-</p>
-
-<p style="text-align: justify;">
-
-</p>
-
-<p style="text-align: justify;">
-
-</p>
-
-<p style="text-align: justify;">
-
-</p>
-
-<p style="text-align: justify;">
-
-</p>
-
-<p style="text-align: justify;">
-
-</p>
-
-<p style="text-align: justify;">
-
-</p>
-
-<p style="text-align: justify;">
-
-</p>
-
-<p style="text-align: justify;">
-
-</p>
-
-<p style="text-align: justify;">
-
-</p>
-
-<p style="text-align: justify;">
-
-</p>
-
-<center>
-  <p><small>Quadro 3.1: Modelo de cronograma geral e plano de trabalho. </small></p><br>
-    <img src="../imagens/quadro_3_1.png" style="width: 70%; height: auto;"/>
-</center>
 

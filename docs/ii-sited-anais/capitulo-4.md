@@ -1,6 +1,6 @@
 
 
-![Legenda](../img/capitulo.png)
+![Legenda](../img/nova_capitulo.png)
 
 # **O USO DO BLOG NO ENSINO DA LÍNGUA PORTUGUESA NA EJA**
 

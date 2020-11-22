@@ -1,5 +1,5 @@
 
-![Legenda](../img/capitulo.png)
+![Legenda](../img/nova_capitulo.png)
 
 # **FORMAÇÃO ONLINE DE PROFESSORES: ANÁLISE DA ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA-TECNOLÓGICA DE UMA LICENCIATURA NA EAD**
 

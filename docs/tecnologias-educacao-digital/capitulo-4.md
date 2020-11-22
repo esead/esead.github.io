@@ -75,7 +75,10 @@ p.combinado:first-letter {
 
 ![Legenda](../imagens/capitulo.png)
 
-
+<div style="text-align: right"> 
+    <p><em>J. António Moreira</em></p> 
+    <p><em>Sara Dias-Trindade</em></p>  
+ </div>
 
 Neste início do século XXI temos assistido ao crescimento de uma cultura
 digital sustentada a partir da interação com diferentes dispositivos

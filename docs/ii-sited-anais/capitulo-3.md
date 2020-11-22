@@ -1,6 +1,6 @@
 
 
-![Legenda](../img/capitulo.png)
+![Legenda](../img/nova_capitulo.png)
 
 # **USO DO AUDIOVISUAL COMO METODOLOGIA DE ENSINO NA EDUCAÇÃO BÁSICA**
 

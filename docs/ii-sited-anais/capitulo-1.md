@@ -1,5 +1,25 @@
 
-![Legenda](../img/capitulo.png)
+
+:material-cursor-default-click-outline: Clique no botão abaixo para alternar visualização:
+
+<div class="tx-switch">
+  <button data-md-color-scheme="default"><code>Visualização normal</code></button>
+  <button data-md-color-scheme="slate"><code>Visualização contraste</code></button>
+</div>
+
+<script>
+  var buttons = document.querySelectorAll("button[data-md-color-scheme]")
+  buttons.forEach(function(button) {
+    button.addEventListener("click", function() {
+      var attr = this.getAttribute("data-md-color-scheme")
+      document.body.setAttribute("data-md-color-scheme", attr)
+      var name = document.querySelector("#__code_0 code span:nth-child(7)")
+      name.textContent = attr
+    })
+  })
+</script>
+
+![Legenda](../img/nova_capitulo.png)
 
 <center>
 <audio controls>
@@ -24,7 +44,7 @@ Estamos fazendo uma alteração para reativar esse trabalho!
 
 
 ### **Resumo**
-<p style="text-align: justify;">
+
 
 <p style="text-align: justify;">
 As dificuldades enfrentadas pelos estudantes de cursos técnicos podem ter relação com o tipo de
@@ -46,7 +66,6 @@ tornou-me mais dinâmico, eficaz e construído de forma coletiva e colaborativa.
 ### **1. Introdução**
 
 <p style="text-align: justify;">
-
 As tecnologias da informação e comunicação (TICs) inseridas nas metodologias de ensino e
 aprendizagem vem marcando a Educação atual. São mudanças que devem ocorrer no sentido de
 buscar a descentralização do professor na sala de aula e incentivar o aluno a construir o conhecimento de forma coletiva e colaborativa, com atuação e mediação do professor.
@@ -147,7 +166,6 @@ Após a iniciação a informática, os alunos foram levados a construção do <e
 estrutura de repositório educacional, para armazenamento dos conteúdos produzidos e estudados
 durante as aulas. Para a construção, foi utilizada a ferramenta gratuita <em>Blogger</em> da empresa Google.
 Essa escolha foi motivada pelo uso do gratuito e intuitivo do citado <em>site</em>.
-
 </p>
 
 

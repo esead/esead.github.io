@@ -36,46 +36,16 @@ p.recuo {
   font-size: small;
   text-align: justify;
 }
-
-p.combinado:first-letter { 
-	color: #F5843A; 
-	font-size:xx-large; 
-}
-.info {
-  background-color: #e7f3fe;
-  border-left: 6px solid #2196F3;
-}
-.success {
-  background-color: #ddffdd;
-  border-left: 6px solid #4CAF50;
-}
-
-.danger {
-  background-color: #ffdddd;
-  border-left: 6px solid #f44336;
-}
-
-.block {
-  display: block;
-  width: 100%;
-  border: none;
-  background-color: #4CAF50;
-  color: white;
-  padding: 14px 28px;
-  font-size: 16px;
-  cursor: pointer;
-  text-align: center;
-}
-
-.block:hover {
-  background-color: #ddd;
-  color: black;
-}
 </style>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
 ![Legenda](../imagens/capitulo.png)
 
+<div style="text-align: right"> 
+    <p><em>Adilson Gomes dos Santos</em></p> 
+    <p><em>Ariston de Lima Cardoso</em></p> 
+    <p><em>Eniel do Espírito Santo</em></p> 
+ </div>
 
 A condição humana, na perspectiva de Hannah Arendt, está para além do
 conceito de natureza humana, neste sentido as ciências humanas envolvem
@@ -119,7 +89,7 @@ aprendizagem das pessoas com deficiência visual, na abordagem da
 Tecnologia Educacional, apresenta potencialidades de utilização dos
 dispositivos móveis, o mobile learning _(m-learning)_ como ambiente
 de aprendizagem, cada vez mais presentes na forma de vida imposta pela
-`sociedade em rede'.
+'sociedade em rede'.
 
 Neste sentido, o conjunto de técnicas que promova à mediação da
 aprendizagem utilizando meios tecnológicos, entendida como tecnologia
@@ -398,7 +368,8 @@ se tornam chave para a tecnologia assistiva. Além de ser facilmente
 encontrado, o código QR também pode ser facilmente gerado, como pode ser
 visto no site [http://qrcode.kaywa.com/](http://qrcode.kaywa.com/) A partir dele ou de outros
 softwares semelhantes é possível inserir o texto desejado ou a URL e
-criar o QR code desejado. Veja Figura \ref{image34}.
+criar o QR code desejado. Veja Figura 1.
+
 
 <center>
   <p><small>Figura 1: Código QR Code. </small></p><br>
@@ -470,41 +441,41 @@ aprendizagem.
 
 ## Referências 
 
-Arendt, H. (2009). _A Condição Humana_. (10 ed.). Rio de Janeiro:
+[1] Arendt, H. (2009). _A Condição Humana_. (10 ed.). Rio de Janeiro:
 Forense Universitária.
 
-Castells, M. (2006). _A sociedade em rede._ (9 ed.). São Paulo:
+[2] Castells, M. (2006). _A sociedade em rede._ (9 ed.). São Paulo:
 Paz e Terra.
 
-OMS. (2012). _Relatório mundial sobre a pessoa com deficiência. Tradução de: World Report on Disability (World Health Organization)._
+[3] OMS. (2012). _Relatório mundial sobre a pessoa com deficiência. Tradução de: World Report on Disability (World Health Organization)._
 Governo do Estado de São Paulo, Secretaria dos Direitos da Pessoa com
 Deficiência. São Paulo: Governo do Estado de São Paulo.
 
-Vygotsky, L. (1998). _A formação social da mente_ (6 ed.). S.P.:
+[4] Vygotsky, L. (1998). _A formação social da mente_ (6 ed.). S.P.:
 Martim Fontes.
 
-BRASIL. (2007). _Ata da 7ª Reunião do Comitê de Ajudas Técnicas._
+[5] BRASIL. (2007). _Ata da 7ª Reunião do Comitê de Ajudas Técnicas._
 Acesso em 13 de Mai de 2014, disponível em Secretaria Especial dos
 Direitos Humanos. Coordenadoria Nacional para Integração da Pessoa
 Portadora de Deficiência.: Integração da Pessoa Portadora de
 Deficiência. Ata da 7ª Reunião do Comitê de Ajudas.
 [http://www.infoesp.net/CAT_Reuniao_VII.pdf](http://www.infoesp.net/CAT_Reuniao_VII.pdf).
 
-BRASIL. (2009). _Tecnologia Assistiva. Subsecretaria Nacional de Promoção dos Direitos da Pessoa com Deficiência._ Brasília: Comitê de
+[6] BRASIL. (2009). _Tecnologia Assistiva. Subsecretaria Nacional de Promoção dos Direitos da Pessoa com Deficiência._ Brasília: Comitê de
 Ajudas Técnicas. Fonte: Comitê de Ajudas Técnicas. Tecnologia
 Assistiva. Brasília: CORDE, 2009.
 
-BERSCH, R. (2008). _Introdução à Tecnologia Assistiva. CEDI -- Centro Especializado em Desenvolvimento Infantil._ Porto Alegre:
+[7] BERSCH, R. (2008). _Introdução à Tecnologia Assistiva. CEDI -- Centro Especializado em Desenvolvimento Infantil._ Porto Alegre:
 CEDI.
 
-MENDES, E., & LOURENÇO, G. (2012). Recursos computadorizados de
+[8] MENDES, E., & LOURENÇO, G. (2012). Recursos computadorizados de
 Tecnologia Assistiva  para  estudantes com 
 paralisia cerebral em
 múltiplos contextos. IN: 2012, _Dimensões pedagógicas nas práticas de inclusão escolar._ Marília: ABPEE.
 
-GALVÃO FILHO, T. A. (2009). _Tecnologia Assistiva para uma escola inclusiva: apropriação, demanda e perspectivas._ Salvador:
+[9] GALVÃO FILHO, T. A. (2009). _Tecnologia Assistiva para uma escola inclusiva: apropriação, demanda e perspectivas._ Salvador:
 Universidade Federal da Bahia.
 
-CONSORTIUM., E. (1999). _Educação em tecnologias de apoio para utilizadores finais: linhas de orientações para formadores._ Acesso em
+[10] CONSORTIUM., E. (1999). _Educação em tecnologias de apoio para utilizadores finais: linhas de orientações para formadores._ Acesso em
 31 de mar de 2013, disponível em EUSTAT CONSORTIUM.:
 [http://portale.siva.it/files/EUSTAT_Tec_Pt.pdf](http://portale.siva.it/files/EUSTAT_Tec_Pt.pdf).

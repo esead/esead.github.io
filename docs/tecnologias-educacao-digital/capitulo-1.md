@@ -66,7 +66,6 @@ p.combinado:first-letter {
 ![Legenda](../imagens/capitulo.png)
 
 
-
 <p style="text-align: justify;">
 Vivemos imersos nas maravilhas das mudanças provocadas pelo uso das
 tecnologias digitais em todos os aspectos da sociedade, contudo
@@ -184,17 +183,13 @@ novos olhares, bem como o convidam para repensar a complexa e
 emocionante relação de ensino e aprendizagem nos tempos atuais.
 </p>
 
-<p style="text-align: justify;">
-Ariston de Lima Cardoso
-</p>
 
-<p style="text-align: justify;">
-Adilson Gomes dos Santos
-</p>
+<div style="text-align: right"> 
+    <p><em>Ariston de Lima Cardoso</em></p>
+    <p><em>Adilson Gomes dos Santos</em></p> 
+    <p><em>Eniel Espirito Santo</em></p> 
+ </div>
 
-<p style="text-align: justify;">
-Eniel Espirito Santo
-</p>
 
 
 

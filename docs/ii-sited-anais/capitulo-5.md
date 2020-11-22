@@ -1,6 +1,6 @@
 
 
-![Legenda](../img/capitulo.png)
+![Legenda](../img/nova_capitulo.png)
 
 # **O IMIGRANTE DIGITAL: REFLEXOS DE UMA MUDANÇA CULTURAL**
 
@@ -124,14 +124,14 @@ educação brasileira. Maia e Mattar entendem que no Brasil:
 </p>
 
 
-<p style="text-align: justify;">
+
 
 >  Há registros de cursos de taquigrafia a distância, oferecidos por meio
 	de anúncios de jornais, desde a década de 1720. Entretanto, a EaD surge
 	efetivamente em meados do século XIX, em função do desenvolvimento de
 	meios de transportes e comunicação (como trens e correio), especialmente
 	com o ensino por correspondência (2007, p. 21).
-</p>
+
 
 
 <p style="text-align: justify;">
