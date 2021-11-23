@@ -23,7 +23,7 @@ site_name: esead
 site_url: https://esead.github.io/
 site_author: Superintendência de Educação Aberta e a Distância (SEAD)
 site_description: >-
-  Plataforma para disponibilização de e-books no formato App Web da Superintendência 
+  Aplicação de e-books da Superintendência 
   de Educação Aberta e a Distância (SEAD) da Universidade Federal do Recôncavo da Bahia (UFRB).
 
 # Repository
@@ -32,7 +32,7 @@ repo_url: https://github.com/esead/
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2020 Superintendência de Educação Aberta e a Distância - SEAD/UFRB
+copyright: Copyright &copy; 2021 Superintendência de Educação Aberta e a Distância - SEAD/UFRB
 
 # Configuration
 theme:
@@ -90,6 +90,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 markdown_extensions:
+  - footnotes
   - attr_list
   - def_list
   - markdown.extensions.admonition
@@ -135,15 +136,42 @@ nav:
   - Sobre:
     - Home: sobre/index.md
   - Explore:
-    - E-books: explore/index.md
-  - Limite:
-    - Definição: limite/definicao.md
-    - Propriedades: limite/propriedades.md
-    - Continuidade: limite/continuidade.md
-    - Infinitos: limite/infinitos.md
-    - No infinito: limite/no-infinito.md
-    - Fundamentais: limite/fundamentais.md
-    - Licença: limite/creative-commons.md 
+    - E-books: explore/index.md 
+  - Tecnologias e Educação Aberta e Digital - vol 1:
+    - Capa: tecnologias-e-educacao-aberta-e-digital-vol-1/capa.md
+    - Contra capa: tecnologias-e-educacao-aberta-e-digital-vol-1/contra-capa.md
+    - Apresentação: tecnologias-e-educacao-aberta-e-digital-vol-1/apresentacao.md
+    - SEÇÃO I - percepções das tecnologias e cenários digitais de aprendizagem:
+      - Capítulo 1: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-1.md
+      - Capítulo 2: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-2.md
+      - Capítulo 3: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-3.md
+      - Capítulo 4: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-4.md
+      - Capítulo 5: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-5.md
+    - SEÇÃO II - gamificação e jogos digitais na educação:
+      - Capítulo 6: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-6.md
+      - Capítulo 7: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-7.md
+      - Capítulo 8: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-8.md
+      - Capítulo 9: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-9.md
+    - SEÇÃO III - interfaces digitais na educação:
+      - Capítulo 10: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-10.md
+      - Capítulo 11: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-11.md
+      - Capítulo 12: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-12.md
+      - Capítulo 13: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-13.md
+      - Capítulo 14: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-14.md
+    - SEÇÃO IV - propostas formativas enriquecidas pelas tecnologias digitais:
+      - Capítulo 15: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-15.md
+      - Capítulo 16: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-16.md
+      - Capítulo 17: tecnologias-e-educacao-aberta-e-digital-vol-1/capitulo-17.md
+  - Tecnologias e Educação Aberta e Digital - vol 2:
+    - Capa: tecnologias-e-educacao-aberta-e-digital-vol-2/capa.md
+    - Contra capa: tecnologias-e-educacao-aberta-e-digital-vol-2/contra-capa.md
+    - Apresentação: tecnologias-e-educacao-aberta-e-digital-vol-2/apresentacao.md
+    - SEÇÃO I - Gamificação e Cibercultura:
+      - Capítulo 1: tecnologias-e-educacao-aberta-e-digital-vol-2/capitulo-1.md
+    - SEÇÃO II - Tutoria, Ensino em Redes e Objetos Digitais de Aprendizagem:
+      - Capítulo 9: tecnologias-e-educacao-aberta-e-digital-vol-2/capitulo-9.md
+    - SEÇÃO III - Tecnologias Educacionais e Autonomia:
+      - Capítulo 18: tecnologias-e-educacao-aberta-e-digital-vol-2/capitulo-18.md
   - O Papel do Fiscal na Administração Pública:
     - Capa: o-papel-do-fiscal-na-administracao-publica/capa.md
     - Autora: o-papel-do-fiscal-na-administracao-publica/contra-capa.md
@@ -199,8 +227,6 @@ nav:
     - Capítulo 10: tecnologias-educacao-digital/capitulo-10.md
     - Sobre Organizadores: tecnologias-educacao-digital/organizadores.md
     - Sobre Autores: tecnologias-educacao-digital/autores.md
-
-
   - Modelo Pedagógico Virtual UFRB:
     - Capa: modelo-pedagogico-virtual-ufrb/capa.md
     - Autores: modelo-pedagogico-virtual-ufrb/contra-capa.md
@@ -242,24 +268,116 @@ nav:
     - Eixo III: ii-sited-anais/eixo-3.md
     - Capítulo 18: ii-sited-anais/capitulo-18.md
     - Capa fundo: ii-sited-anais/capitulo-fundo.md
-  - Derivada:
-    - Definição: derivada/definicao.md
-    - Propriedades: derivada/propriedades.md
-    - Licença: derivada/creative-commons.md
-  - Aplicações:
-    - Definição: aplicacao/definicao.md
-    - Propriedades: aplicacao/propriedades.md
-    - Licença: aplicacao/creative-commons.md
-  - Integral:
-    - Definição: integral/definicao.md
-    - Propriedades: integral/propriedades.md
-    - Licença: integral/creative-commons.md
-  - Listas:
-    - Limite: listas/limite.md
-    - Derivada: listas/derivada.md
-    - Aplicações: listas/aplicacao.md
-    - Integral: listas/integral.md
-    - Licença: derivada/creative-commons.md
+  - Adoção de Práticas de Segurança Laboral:
+    - Capa: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/capa.md
+    - Autoras: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/autoras.md
+    - Produção: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/producao.md
+    - Licença: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/creative-commons.md
+    - Apresentação: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/apresentacao.md
+    - Capítulo 1: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/capitulo-1.md
+    - Capítulo 2: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/capitulo-2.md
+    - Capítulo 3: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/capitulo-3.md
+    - Capítulo 4: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/capitulo-4.md
+    - Capítulo 5: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/capitulo-5.md
+    - Capítulo 6: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/capitulo-6.md
+    - Capítulo 7: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/capitulo-7.md
+    - Capítulo 8: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/capitulo-8.md
+    - Referências: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/referencias.md
+    - Currículo: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/mini-curriculo.md
+    - Capa fundo: adocao-de-praticas-de-seguranca-laboral-em-empreendimentos-cooperativos/capa-fundo.md
+  - Anais I Seminário Mineração e Meio Ambiente da Bahia:
+    - Capa: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capa.md
+    - Organizadores: anais-i-seminario-mineracao-meio-ambiente-da-bahia/organizadores.md
+    - Produção: anais-i-seminario-mineracao-meio-ambiente-da-bahia/producao.md
+    - Licença: anais-i-seminario-mineracao-meio-ambiente-da-bahia/creative-commons.md
+    - Capítulo 1: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-1.md
+    - Capítulo 2: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-2.md
+    - Capítulo 3: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-3.md
+    - Capítulo 4: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-4.md
+    - Capítulo 5: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-5.md
+    - Capítulo 6: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-6.md
+    - Capítulo 7: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-7.md
+    - Capítulo 8: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-8.md
+    - Capítulo 9: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-9.md
+    - Capítulo 10: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-10.md
+    - Capítulo 11: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-11.md
+    - Capítulo 12: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-12.md
+    - Capítulo 13: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-13.md
+    - Capítulo 14: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-14.md
+    - Capítulo 15: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-15.md
+    - Capítulo 16: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-16.md
+    - Capítulo 17: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-17.md
+    - Capítulo 18: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-18.md
+    - Capítulo 19: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-19.md
+    - Capítulo 20: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-20.md
+    - Capítulo 21: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-21.md
+    - Capítulo 22: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-22.md
+    - Capítulo 23: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-23.md
+    - Capítulo 24: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-24.md
+    - Capítulo 25: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-25.md
+    - Capítulo 26: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-26.md
+    - Capítulo 27: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-27.md
+    - Capa fundo: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capa-fundo.md
+  - Convite Formatura Turma 1:
+    - Capa: convite-formatura-1/capa.md
+    - Identificação: convite-formatura-1/identificacao.md
+    - Nome da Turma: convite-formatura-1/nome-turma.md
+    - Mensagem Inicial: convite-formatura-1/mensagem.md
+    - Agradecimentos: convite-formatura-1/agradecimentos.md
+    - Formandos Polo Sapeaçu: convite-formatura-1/formandos-polo-sapeacu.md
+    - Formandos Polo Ipirá: convite-formatura-1/formandos-polo-ipira.md
+    - Formandos Polo Macaúbas: convite-formatura-1/formandos-polo-macaubas.md
+    - Formandos Polo Rio Real: convite-formatura-1/formandos-polo-rio-real.md
+    - Formandos Polo Vitória da Conquista: convite-formatura-1/formandos-polo-vitoria-da-conquista.md
+    - Mensagem Comissão: convite-formatura-1/mensagem-comissao.md
+    - Mensagem Final: convite-formatura-1/mensagem-final.md
+  - Convite Formatura Turma 2:
+    - Capa: convite-formatura-2/capa.md
+    - Identificação: convite-formatura-2/identificacao.md
+    - Nome da Turma: convite-formatura-2/nome-turma.md
+    - Mensagem Inicial: convite-formatura-2/mensagem.md
+    - Agradecimentos: convite-formatura-2/agradecimentos.md
+    - Formandos Polo Sapeaçu: convite-formatura-2/formandos-polo-sapeacu.md
+    - Formandos Polo Ipirá: convite-formatura-2/formandos-polo-ipira.md
+    - Formandos Polo Macaúbas: convite-formatura-2/formandos-polo-macaubas.md
+    - Formandos Polo Rio Real: convite-formatura-2/formandos-polo-rio-real.md
+    - Formandos Polo Vitória da Conquista: convite-formatura-2/formandos-polo-vitoria-da-conquista.md
+    - Mensagem Comissão: convite-formatura-2/mensagem-comissao.md
+    - Mensagem Final: convite-formatura-2/mensagem-final.md
+  - Anais II Seminário Mineração e Meio Ambiente da Bahia:
+    - Capa: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capa.md
+    - Organizadores: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/organizadores.md
+    - Produção: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/producao.md
+    - Licença: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/creative-commons.md
+    - Capítulo 1: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-1.md
+    - Capítulo 2: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-2.md
+    - Capítulo 3: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-3.md
+    - Capítulo 4: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-4.md
+    - Capítulo 5: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-5.md
+    - Capítulo 6: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-6.md
+    - Capítulo 7: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-7.md
+    - Capítulo 8: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-8.md
+    - Capítulo 9: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-9.md
+    - Capítulo 10: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-10.md
+    - Capítulo 11: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-11.md
+    - Capítulo 12: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-12.md
+    - Capítulo 13: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-13.md
+    - Capítulo 14: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-14.md
+    - Capítulo 15: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-15.md
+    - Capítulo 16: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-16.md
+    - Capítulo 17: anais-i-seminario-mineracao-meio-ambiente-da-bahia/capitulo-17.md
+    - Capítulo 18: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-18.md
+    - Capítulo 19: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-19.md
+    - Capítulo 20: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-20.md
+    - Capítulo 21: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-21.md
+    - Capítulo 22: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-22.md
+    - Capítulo 23: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-23.md
+    - Capítulo 24: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-24.md
+    - Capítulo 25: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-25.md
+    - Capítulo 26: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-26.md
+    - Capítulo 27: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-27.md
+    - Capítulo 28: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capitulo-28.md
+    - Capa fundo: anais-ii-seminario-mineracao-meio-ambiente-da-bahia/capa-fundo.md
 # Google Analytics
 google_analytics:
   - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
