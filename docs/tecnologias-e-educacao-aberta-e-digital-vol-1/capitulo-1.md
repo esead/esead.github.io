@@ -33,12 +33,9 @@ p.combinado:first-letter {
     })
     </script>
 
-    <center>
-    <audio controls>
-      <source src="../audio/voice5.mp3" type="audio/mpeg">
-    Seu navegador não suporta esta aplicação de áudio.
-    </audio>
-    </center>
+
+
+
 
 
 
@@ -74,13 +71,6 @@ rápida evolução dos recursos tecnológicos digitais. Também são
 apresentadas experiências bem-sucedidas de inovação e inclusão digital
 na educação.
 
-<p style="text-align: justify;">
-
-</p>
-
-<p style="text-align: justify;">
-
-</p>
 
 **Palavras-chave:** inovação na educação; inclusão digital; tecnologias;
 práticas pedagógicas. aprendizagem.

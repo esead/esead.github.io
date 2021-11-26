@@ -57,16 +57,8 @@ body {
 </style>
 
 
-
 <div id="example3">
-
 <center> 
-<img src="../imagens/capa_v2_volume_2.png" alt="Avatar" style="width:60%">
-
-<br>
-<button class="button"><a href="https://educapes.capes.gov.br/handle/capes/205464" target="_blank"><span style="color:#FFF"> Ebook PDF </a></span></button>
-
+<img src="../imagens/capa-vol-2-ebook.png" alt="Avatar" style="width:60%">
 </center>
-
-
 </div>

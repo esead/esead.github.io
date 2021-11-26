@@ -59,14 +59,18 @@ body {
 
 
 <div id="example3">
-
 <center> 
-<img src="../imagens/capa_v2_volume_1.png" alt="Avatar" style="width:60%">
-
-<br>
-<button class="button"><a href="https://educapes.capes.gov.br/handle/capes/205464" target="_blank"><span style="color:#FFF"> Ebook PDF </a></span></button>
-
+<img src="../imagens/capa-vol-1-ebook.png" alt="Avatar" style="width:60%">
 </center>
-
-
 </div>
+
+
+<!-- 
+<center>
+    <audio controls>
+      <source src="../audio/voice5.mp3" type="audio/mpeg">
+    Seu navegador não suporta esta aplicação de áudio.
+    </audio>
+    </center>
+
+-->

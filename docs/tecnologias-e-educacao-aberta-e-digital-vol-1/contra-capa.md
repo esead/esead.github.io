@@ -1,5 +1,5 @@
 
-# Autores 
+# Identificação
 
 <style>
 
@@ -63,34 +63,79 @@ img {
 
 </style>
 
-<center> 
-<div class="card">
-	<center> 
-  <img src="../imagens/odair.png" alt="Avatar" style="width:40%">
-    </center>
-  <div class="container">
-    <h4 align="center"><b>Oldair Vinhas Costa</b></h4> 
-    <p><button class="button"><a href="http://lattes.cnpq.br/0146226390364619" target="_blank"><span style="color:#FFF"> Lattes </a></span></button></p> 
-  </div>
-</div>
-</center> 
+**UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA**
+
+REITOR
+
+Fábio Josué Souza dos Santos
+
+VICE-REITOR
+
+José Pereira Mascarenhas Bisneto
+
+SUPERINTENDENTE DE EDUCAÇÃO ABERTA E A DISTÂNCIA E COORDENADOR UAB/UFRB
+
+Adilson Gomes dos Santos
+	
+COORDENADOR ADJUNTO UAB/UFRB
+
+Eniel do Espírito Santo
+
+    
+**Tecnologias e Educação Aberta e Digital - Volume 1**
+
+**ORGANIZADORES**
+
+Eniel do Espirito Santo 
+
+Adilson Gomes dos Santos
+
+Susana Henriques 
+ 
+**EQUIPE SEAD** 
+	
+Agesandro Azevedo de Souza
+
+Alberto Roque Cerqueira de Azevedo
+
+Carlos André Lima de Matos
+
+Cíntia Ramos
+
+Ejziel Sampaio
+
+Gilvan Silva dos Santos
+
+George Cardoso
+
+Jonatas de Freitas Santos
+
+Joseane da Conceição Pereira Costa
+
+Luiz Artur dos Santos da Silva
+
+Sabrina Carvalho Machado
+
+**EQUIPE MULTIDISCIPLINAR**
+
+Adilson Gomes dos Santos
+
+Agesandro Azevedo de Souza
+
+Ariston de Lima Cardoso
+
+Eniel do Espírito Santo
+
+Julianna Pinele Santos Porto
+
+Lucas Santos Cerqueira
+
+Luiz Artur dos Santos da Silva
+
+Sabrina Carvalho Machado
 
 
-<center> 
-<div class="card">
-	<center> 
-  <img src="../imagens/marcelo.gif" alt="Avatar" style="width:40%">
-    </center>
-  <div class="container">
-    <h4 align="center"><b>Marcelo Henrique Siqueira de Araújo</b></h4> 
-    <p><button class="button"><a href="http://lattes.cnpq.br/1553852645715337" target="_blank"><span style="color:#FFF"> Lattes </a></span></button></p> 
-  </div>
-</div>
-</center> 
+**DIAGRAMAÇÃO**
 
-
-<center><h2><strong>Leitura de Ambientes da Mineração</strong></h2></center>
-<center>Cruz das Almas - BA </center>
-<center>2018 </center>
-
+Carlos André Lima de Matos
 

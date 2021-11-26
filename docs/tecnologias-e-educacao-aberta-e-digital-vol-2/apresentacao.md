@@ -33,12 +33,6 @@ p.combinado:first-letter {
     })
     </script>
 
-    <center>
-    <audio controls>
-      <source src="../audio/voice5.mp3" type="audio/mpeg">
-    Seu navegador não suporta esta aplicação de áudio.
-    </audio>
-    </center>
 
 <p style="text-align: right;">
 Eniel do Espírito Santo<br>
