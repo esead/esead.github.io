@@ -34,8 +34,6 @@ p.combinado:first-letter {
     </script>
 
 
-
-
 ??? info "Autores"
     === "Débora Neri dos Santos"
 

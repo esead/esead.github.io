@@ -34,8 +34,6 @@ p.combinado:first-letter {
     </script>
 
 
-
-
 ??? info "Autores"
     === "Fábio Cirqueira da Silva Junior"
 
@@ -887,7 +885,7 @@ FERNANDO, Paulo Henrique Lixandrão; BATISTELA, Lilian Carla Gonçalves;
 NETO, Luiz Guilherme; MOTTA, Odair Batista; VAZ, Alex Nunes Alves;
 TONETO, Lívia Cristina. A ferramenta tecnológica para
 desenvolvimento do raciocínio lógico da matemática no ensino
-fundamental. **Simpósio Internacional de Educação à Distância.**
+fundamental. **Simpósio Internacional de Educação a Distância.**
 Disponível em: http://www.sied-enped2016.ead.ufscar.br/ojs/index.php/2016/article/view/1630.
 Acesso em: 08 abr. 2020.
 

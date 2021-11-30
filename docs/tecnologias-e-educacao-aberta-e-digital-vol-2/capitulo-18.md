@@ -34,8 +34,6 @@ p.combinado:first-letter {
     </script>
 
 
-
-
 ??? info "Autores"
     === "Beatriz Ribeiro Fragoso Carvalho"
 

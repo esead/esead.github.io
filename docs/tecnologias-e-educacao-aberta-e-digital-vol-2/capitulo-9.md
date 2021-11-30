@@ -10,7 +10,7 @@ p.combinado:first-letter {
 
 ![Legenda](imagens/capitulo.svg)
 
-# **As habilidades e competências digitais do professor no ensino à distância**
+# **As habilidades e competências digitais do professor no ensino a distância**
 
 ??? "Ferramentas de acessibilidade"
 
@@ -32,8 +32,6 @@ p.combinado:first-letter {
        })
     })
     </script>
-
-
 
 
 ??? info "Autores"
@@ -228,7 +226,7 @@ aprendizagem do MEC.
 
 ### Estudar e aprender nos espaços *online* 
 
-Estudar à distância não é uma prática nova, "\[...\] contudo, no
+Estudar a distância não é uma prática nova, "\[...\] contudo, no
 decorrer das últimas décadas do século XX, a educação a distância foi
 impulsionada com a utilização das tecnologias de comunicação \[...\]",
 segundo Pelli; Vieira (2018). Essa estratégia tem sido um recurso a mais

@@ -33,9 +33,6 @@ p.combinado:first-letter {
     })
     </script>
 
-
-
-
 ??? info "Autores"
     === "Tatinai Rodrigues Cardoso Viana"
 
@@ -512,7 +509,7 @@ ciberespaço.
 
 A educação precisa se reinventar nesta nova sociedade, sendo pertinente
 a construção de novos modelos de espaços de conhecimento que levem em
-consideração a inserção da Educação à Distância (EAD), bem como a
+consideração a inserção da Educação a Distância (EAD), bem como a
 experiência adquirida, a fim de sanar as exigências da sociedade
 informatizada e interconectada. Entende-se ser o ciberespaço um
 equipamento coletivo internacional de memória da construção do

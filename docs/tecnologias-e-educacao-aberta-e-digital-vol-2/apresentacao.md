@@ -1,6 +1,4 @@
 
-
-
 <style>
 p.combinado:first-letter { 
 	color: #00587A; 
@@ -51,7 +49,7 @@ Adilson Gomes dos Santos
 <p class="combinado">No ano de 2017, a Câmara de Pesquisa e
 Pós-Graduação da Universidade Federal do Recôncavo da Bahia aprovou o
 projeto do curso de Especialização em Tecnologias e Educação Aberta e
-Digital na modalidade à Distância, buscando o desenvolvimento de
+Digital na modalidade a Distância, buscando o desenvolvimento de
 competências fundamentais para a concepção, desenvolvimento, avaliação e
 análise de ferramentas digitais e conteúdo de áudio, vídeo e multimídia;
 a identificação e descrição de diferentes quadros de referência e
@@ -80,14 +78,14 @@ contribuírem com seus trabalhos na composição dos capítulos deste livro.
 Assim, 24 autores contribuíram para a materialização deste livro. Esses
 trabalhos tiveram como principal fonte de dados estudos publicados em
 livros e periódicos, em sua maioria da área de Educação e Computação.
-Eles trataram de diversas dimensões do ensino à distância sempre com o
+Eles trataram de diversas dimensões do ensino a distância sempre com o
 olhar das tecnologias digitais.</p>
 
 <p style="text-align: justify;">
 Organizado em 3 seções: Gamificação e Cibercultura (i); Tutoria, Ensino
 em Redes e Objetos Digitais de Aprendizagem (ii), e; Tecnologias
 Educacionais e Autonomia (iii). Tratam-se de temas caros para a Educação
-à Distância, modalidade de ensino que durante o período de pandemia
+a Distância, modalidade de ensino que durante o período de pandemia
 ganhou ainda mais destaque na sociedade mundial, uma vez que a educação
 presencial no formato conhecido até então teve seu funcionamento
 inviabilizado.</p>
@@ -118,11 +116,11 @@ Redes e Objetos Digitais de Aprendizagem. Essa seção é inaugurada com o
 texto de Anunciação e Santo num trabalho onde são discutidas as
 habilidades e competências necessárias ao docente que atua no ensino à
 distância. No capítulo seguinte, Assis e Silva apresentaram o papel do
-tutor na Educação à Distância, listando as funções por eles assumidas,
+tutor na Educação a Distância, listando as funções por eles assumidas,
 assim como os desafios enfrentados e as suas perspectivas. Santos e
 Bezerra dão continuidade no estudo dos papeis e desafios dos tutores, e
 demonstram em seu texto a importância dos tutores para o sucesso de
-educandos em turmas que ocorrem no formato de Educação à Distância. Em
+educandos em turmas que ocorrem no formato de Educação a Distância. Em
 seguida, Silva e Santo trazem à tona aspectos essenciais ao bom
 funcionamento de comunidades virtuais de aprendizagem. Fernandes e
 Passos, por sua vez, destacam a importância da Tecnologia da Informação

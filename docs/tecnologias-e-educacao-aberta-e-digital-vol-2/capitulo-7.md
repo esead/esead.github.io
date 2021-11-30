@@ -34,9 +34,6 @@ p.combinado:first-letter {
     </script>
 
 
-
-
-
 ??? info "Autores"
     === "Poliana Lopes Silva Alves"
 

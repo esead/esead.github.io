@@ -34,8 +34,6 @@ p.combinado:first-letter {
     </script>
 
 
-
-
 ??? info "Autores"
     === "Pedro Henrique Monte Valadares da Silva"
 
@@ -495,7 +493,7 @@ evolução. (GÓMEZ, 2015, p. 125)
 
 Em relação ao uso da gamificação na educação, esta pesquisa apresentará
 mais especificamente a análise desta prática através da modalidade na
-educação à distância (EAD). Pontos que serão abordados no tópico
+educação a distância (EAD). Pontos que serão abordados no tópico
 seguinte.
 
 ## Os games e a gamificação: vantagens e desafios 
@@ -551,7 +549,7 @@ funciona nos jogos digitais.
 Tanto os games como a gamificação apresentam-se como alicerces ao
 professor a partir do uso dos seus mecanismos supracitados. Portanto,
 justifica-se entender cada mecanismo a fim de aprimorar práticas de
-ensino tanto na modalidade presencial quanto na modalidade à distância.
+ensino tanto na modalidade presencial quanto na modalidade a distância.
 Com esses mecanismos, o professor estará familiarizado com o contexto
 digital ou ele próprio vir a ser um "nascente" do contexto digital.
 

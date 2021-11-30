@@ -33,9 +33,6 @@ p.combinado:first-letter {
     })
     </script>
 
-
-
-
 ??? info "Autores"
     === "João da Silva Melo"
 

@@ -33,9 +33,6 @@ p.combinado:first-letter {
     })
     </script>
 
-
-
-
 ??? info "Autores"
     === "Patrícia Petitinga Silva"
 
@@ -618,7 +615,7 @@ comunicação no ensino jurídico. **Avaliação**, v. 21, n. 1, p. 263-299,
 mar. 2016.
 
 MOREIRA, J. A. Reconfigurando ecossistemas digitais de aprendizagem com
-tecnologias audiovisuais. **Em Rede**: Revista de Educação à Distância,
+tecnologias audiovisuais. **Em Rede**: Revista de Educação a Distância,
 v. 5, n. 1, p. 5-15, 2018.
 
 PRADO, A. L. *et al.* Narrativas digitais: conceitos e contextos de

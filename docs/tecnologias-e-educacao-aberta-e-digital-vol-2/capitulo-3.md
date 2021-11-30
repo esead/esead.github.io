@@ -35,7 +35,6 @@ p.combinado:first-letter {
 
 
 
-
 ??? info "Autores"
     === "Carlos Roberto Moreira de Souza Marinho"
 

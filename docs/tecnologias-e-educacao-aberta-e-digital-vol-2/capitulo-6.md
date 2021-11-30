@@ -489,7 +489,7 @@ de ensino presencial e tradicional, reconhecendo que a gamificação ainda
 
 Por essa perspectiva, é valido ressaltar os estudos de Bissolotti e
 colaboradores (2014) no tocante ao uso da gamificação nos processos de
-ensino aprendizagem no Ensino à Distância (EaD), ao afirmar que esse
+ensino aprendizagem no Ensino a Distância (EaD), ao afirmar que esse
 processo é aplicável na medida em que envolve pessoas, motiva a ação,
 promove a aprendizagem e resolve problemas, instrumentalizando a prática
 pedagógica por meio de seus atributos, como: *feedback* (noção de
@@ -642,7 +642,7 @@ Rafael e ULBRICHT, Vania Ribas. **Jogos Digitais Educacionais: Benefícios E Des
 março de 2020.
 
 BISSOLOTTI, Katielen; NOGUEIRA, Hamilton G.; PEREIRA, Alice T. C.
-**Potencialidades das mídias sociais e da gamificação na educação à distância.** CINTED- Novas Tecnologias na Educação. V. 12 Nº 2,
+**Potencialidades das mídias sociais e da gamificação na educação a distância.** CINTED- Novas Tecnologias na Educação. V. 12 Nº 2,
 dezembro, 2014. Disponível em: https://seer.ufrgs.br/renote/article/view/53511/33027. Acesso em: 02 de
 abril de 2020.
 

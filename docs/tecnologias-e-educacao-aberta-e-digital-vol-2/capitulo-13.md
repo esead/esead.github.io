@@ -34,8 +34,6 @@ p.combinado:first-letter {
     </script>
 
 
-
-
 ??? info "Autores"
     === "Fagner dos Santos Fernandes"
 
@@ -427,8 +425,8 @@ experiências entre discentes e docentes.
 
 Um outro recurso tecnológico na educação são os Ambientes Virtuais de
 Aprendizagem, os AVAs, atualmente ferramentas indispensáveis na
-aprendizagem à distância. Segundo Giglio, Souza e Spanhol (2015) a
-educação EaD (Educação à Distância) é a forma mais próxima do conceito
+aprendizagem a distância. Segundo Giglio, Souza e Spanhol (2015) a
+educação EaD (Educação a Distância) é a forma mais próxima do conceito
 de educação em rede. Um dos motivos é o surgimento de comunidades
 virtuais e ferramentas que ampliam os recursos tecnológicos na área da
 educação. E para que isso ocorra, eles devem possuir características
@@ -450,7 +448,7 @@ compartilhá-los para que outros tivessem acesso. Essa é a base da
 aprendizagem em rede, produzir e compartilhar conteúdos, proporcionando
 novas experiências que "apontam para uma educação com ambientes de
 aprendizagem inovadores" (SOUZA, SIMON, 2015, p. 141), promovendo uma
-educação à distância mais próxima e interativa.
+educação a distância mais próxima e interativa.
 
 O *Moodle,*[^1] uma das plataformas mais utilizadas no mundo, devido a
 sua proposta libertadora, atraiu pessoas, formando uma grande comunidade
@@ -668,7 +666,7 @@ economia, por serem incubadoras de novas descobertas e possibilidades.
 Essas tecnologias podem ser convertidas em salas de aulas inteligentes
 com acesso à banda larga, conhecidas como salas de aula interativas, que
 permitem a comunicação colaborativa em rede, através de *web*
-conferências e aulas à distância. O que leva a pensar no surgimento de
+conferências e aulas a distância. O que leva a pensar no surgimento de
 programas de extração de dados e na evolução da educação *online*, na
 aprendizagem híbrida e móvel. E os sistemas de gestão da aprendizagem
 serão programas de fomento a esses tipos de práticas de investigação,
@@ -751,7 +749,7 @@ visam consolidar a educação em rede como, por exemplo, as salas de aulas
 interativas e inteligentes, cursos *on-line* abertos, comunidades
 virtuais, acervos digitais, recursos educacionais abertos, redes sociais
 educativas, etc. Também existem os ambientes virtuais de aprendizagem
-para a promoção da educação à distância.
+para a promoção da educação a distância.
 
 Nesse sentido é importante deslocar as conexões e interações mantidas na
 rede para dentro da escola. Uma forma interessante para alcançar esses

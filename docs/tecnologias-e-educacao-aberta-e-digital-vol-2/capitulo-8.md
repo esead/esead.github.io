@@ -34,9 +34,6 @@ p.combinado:first-letter {
     </script>
 
 
-
-
-
 ??? info "Autores"
     === "Paula Rossi Gonzalez"
 

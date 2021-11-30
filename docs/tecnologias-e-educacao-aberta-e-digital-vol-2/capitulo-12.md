@@ -34,12 +34,10 @@ p.combinado:first-letter {
     </script>
 
 
-
-
 ??? info "Autores"
     === "Reginaldo de Araújo Silva"
 
-        Especialista em Tecnologias e Educação Aberta e Digital (UFRB - UAb Portugal). Especialista em Educação à Distância (UNEB). Especialista em Politicas Públicas, Gestão do Conhecimento e Desenvolvimento Regional (UNEB). Especialista em Didática e Metodologia do Ensino Superior (FAZAG). Graduado em Pedagogia (UNEB). E-mail: reginaldoaraujo19@hotmail.com.
+        Especialista em Tecnologias e Educação Aberta e Digital (UFRB - UAb Portugal). Especialista em Educação a Distância (UNEB). Especialista em Politicas Públicas, Gestão do Conhecimento e Desenvolvimento Regional (UNEB). Especialista em Didática e Metodologia do Ensino Superior (FAZAG). Graduado em Pedagogia (UNEB). E-mail: reginaldoaraujo19@hotmail.com.
 
     === "Eniel do Espirito Santo"
 
@@ -96,7 +94,7 @@ presenciais.
 
 Por conseguinte, diversas estratégias devem ser levadas em consideração
 para o êxito no processo de ensino e aprendizagem, sendo necessário que
-os sujeitos da aprendizagem, principalmente na modalidade à distância,
+os sujeitos da aprendizagem, principalmente na modalidade a distância,
 compreendam que devem ser autônomos e responsáveis pelo seu aprendizado,
 pois, diante das tecnologias emergentes, novas competências e
 habilidades são atribuídas tanto para os alunos quanto para professores.
@@ -511,7 +509,7 @@ processo de educação para a cidadania (BELLONI, 2015, p.89).
 
 
 Importante destacar que nos estudos de Mill (2015) percebe-se que a
-docência na modalidade à distância ainda não está, de fato,
+docência na modalidade a distância ainda não está, de fato,
 profissionalizada, configurando-se como uma força de trabalho ainda não
 valorizada. Este fato deve ser discutido exaustivamente, pois,
 impossível aceitar-se este tratamento inadequado, haja vista a grande
@@ -818,7 +816,7 @@ assim sendo, um dos desafios que se colocam é que os sistemas
 educacionais, de ensino fundamental e médio, incorporem em suas
 arquiteturas curriculares conhecimentos aos seus discentes e até mesmo
 aos docentes quanto às novas tecnologias e as possibilidades de êxito
-nos cursos na modalidade à distância.
+nos cursos na modalidade a distância.
 
 ## Referências 
 

@@ -33,9 +33,6 @@ p.combinado:first-letter {
     })
     </script>
 
-
-
-
 ??? info "Autores"
     === "Daisy Lima de Souza Santos"
 
@@ -168,7 +165,7 @@ IES para atuar com EAD; em 2000, a fundação da Universidade Virtual
 Pública do Brasil (UniRede); e, em 2006, a fundação da UAB (LINDEN,
 2011).
 
-O fato é que as Instituições de ensino à distância estão lentamente
+O fato é que as Instituições de ensino a distância estão lentamente
 modificando a educação superior pelo menos de quatro formas (PETERS,
 2003): em primeiro lugar, proporcionando educação superior para
 estudantes adultos (que trabalham); em segundo lugar, desenvolvendo e
@@ -471,7 +468,7 @@ desafios a serem enfrentados.
 
 ## Considerações Finais 
 
-O modelo de ensino à distância trouxe atores que não eram vislumbrados
+O modelo de ensino a distância trouxe atores que não eram vislumbrados
 na modelo de educação presencial. Esses atores têm um papel importante
 na construção do processo de ensino/aprendizagem. Este trabalho teve
 como objetivo identificar as contribuições do tutor online na mediação

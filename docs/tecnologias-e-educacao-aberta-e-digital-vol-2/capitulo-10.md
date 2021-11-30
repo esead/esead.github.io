@@ -10,7 +10,7 @@ p.combinado:first-letter {
 
 ![Legenda](imagens/capitulo.svg)
 
-# **O Tutor na Educação à Distância: Função, Desafios, Vantagens e Perspectivas**
+# **O Tutor na Educação a Distância: Função, Desafios, Vantagens e Perspectivas**
 
 ??? "Ferramentas de acessibilidade"
 
@@ -32,9 +32,6 @@ p.combinado:first-letter {
        })
     })
     </script>
-
-
-
 
 ??? info "Autores"
     === "Joalice Santos Batista Assis"
