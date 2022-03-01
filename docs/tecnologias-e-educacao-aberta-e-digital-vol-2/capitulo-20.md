@@ -282,12 +282,12 @@ Fonte: Horn e Staker (2015, p.38)
 
 
 
-Modelo de Rotação**:** é qualquer curso que os alunos alternam, em uma
+Modelo de Rotação: é qualquer curso que os alunos alternam, em uma
 sequência fixa, ou ao modo do professor, no qual uma das atividades deve
 ser on-line. O modelo Rotacional tem quatro submodelos: Rotação por
 Estações, Laboratório Rotacional, SAI e Rotação Individual.
 
-1.  Rotação por Estações*:* estudantes em grupo realizam as atividades
+1.  Rotação por Estações: estudantes em grupo realizam as atividades
     propostas pelo professor; um dos grupos trabalhará com a proposta
     on-line, independente do acompanhamento do professor. Ao término, os
     alunos trocam de grupo, até todos passarem por todas as atividades.
@@ -298,13 +298,13 @@ Estações, Laboratório Rotacional, SAI e Rotação Individual.
     cumprindo os objetivos fixados pelos docentes. Os discentes são
     acompanhados pelo professor ou tutor nos laboratórios.
 
-3.  Sala de Aula Invertida*:* nesse modelo, a teoria é estudada em casa
-    por meio de vídeos, textos\..., no formato "on-line", fora da sala
+3.  Sala de Aula Invertida: nesse modelo, a teoria é estudada em casa
+    por meio de vídeos, textos..., no formato "on-line", fora da sala
     de aula, sendo que o espaço escolar de aula "físico" é utilizado
     para resolução de atividades, discussões ou práticas de projetos
     orientadas pelo professor.
 
-4.  Rotação Individual*:* cada aluno tem um cronograma individual de
+4.  Rotação Individual: cada aluno tem um cronograma individual de
     atividades, não havendo a necessidade da alternância entre as
     estações.
 
@@ -334,9 +334,18 @@ tradicionais, sendo ainda pouco utilizados na educação brasileira (Horn;
 Staker, 2015). Podemos observar no Quadro
 1 os modelos de EH sustentados e disruptivos.
 
+Quadro 1: Modelos de Ensino Híbrido.
 
+|Sustentados | Disruptivos | 
+|---	|---	|
+| + Rotação por Estações
++ Laboratório Rotacional
++ Sala de Aula Invertida| 
+| + Rotacional Individual
++ Flex
++ À la carte
++ Virtual Enriquecido|
 
-**Aqui quadro 1**
 Fonte: próprio autor.
 
 
@@ -364,8 +373,37 @@ do EH no ensino superior. Os resultados analisados foram estabelecidos
 em potencialidades e desafios, cujos os resultados podemos observar no
 Quadro 2.
 
+Quadro 2: Potencialidades e Desafios do Ensino Híbrido.
 
-**Aqui quadro 2**
+| Potencialidades | Desafios |
+|---	|---	|
+| + Os alunos sentiram-se mais motivados a expor suas ideias e experiências durante as aulas. Situações-problema e debates resolvidos em grupo favorecem a compreensão dos conteúdos;
+
++ Aumentar os recursos e as tecnologias empregados no ensino;
+		
++ Os recursos e as ferramentas digitais potencializam o aprendizado e devem ser utilizados como indicadores para ações e correções na melhoria do processo;
+
++ A metodologia permite tempo para que o estudo do conteúdo básico lecionado seja aprofundado;
+
++ Interação com os colegas, a atuação do professor e a própria modalidade mista favorece ao aumento do engajamento;
+
++ Contribuir para a autonomia do aluno;
+
++ Atender aos alunos que preferem aulas presencias e os que preferem aulas on-line.| 
+
+| + Autonomia e a cultura do autoestudo ainda são desafios aos alunos;
+
++ Fato de os alunos não possuírem computador em casa;
+		
++ Necessidade de formação continuada dos professores;
+			
++ A má formação recebida na educação básica faz com que os alunos não compreendam o conteúdo dos materiais instrucionais para além do senso comum;
+		
++ Fato da maioria dos alunos trabalharem impede que eles tenham tempo para realizar as atividades previstas no projeto;
+		
++ Resistência dos alunos em realizar as atividades sem a instrução do professor;
+		
++ Ausência de interatividade entre as webs aula e as atividades.|
 
 Fonte: Adaptado Leandro e Corrêa (2018).
 
