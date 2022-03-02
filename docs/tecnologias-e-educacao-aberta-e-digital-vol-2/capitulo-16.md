@@ -480,10 +480,21 @@ diversos, recursos que já se encontram disponíveis para uso e aplicação
 direta.
 
 No Quadro 1, temos um resumo dos repositórios descritos
-nos estudos selecionados.
+nos estudos selecionados. 
 
-**Quadro 1 aqui**
+Quadro 1: Repositórios Educacionais. 
 
+|Repositório |Endereço | 
+|:---	|:---	|
+|OBAMA | https://obama.imd.ufrn.br/ | 
+|Banco Internacional de Objetos Educacionais (BIOE) | www.objetoseducacionais2.mec.gov.br | 
+|Portal do Professor | http://portaldoprofessor.mec.gov.br/index.html |  
+|Rede Interativa Virtual da Educação (RIVED) | http://rived.mec.gov.br | 
+|Domínio Público | http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp | 
+|Khan Academy | https://pt.khanacademy.org/brasil?utm_account=AdWords&utm_campaignname=Paid_Brasil_Inst\&gclid=EAIaIQobChMI4ObUs9-Y6QIVSIqPCh3H7g4NEAAYASAAEgJPPPD_BwE | 
+|Guia de Tecnologias Educacionais do MEC | http://portal.mec.gov.br/index.php?option=com_content\&view=article\|id=13019 | 
+|Escola digital | https://escoladigital.org.br | 
+|MERLOT (Multimedia Educational Repository for Learning and On-line) & https://www.merlot.org/merlot/ | 
 
 Fonte: Elaborado pelos Autores. Dados de pesquisa.
 
@@ -496,10 +507,119 @@ da pesquisa foi compilado no Quadro
 objeto. Nesse quadro, os ODA's abordados estão classificados em quatro
 categorias: AVA, Game, Software/Aplicativo (App) e MOOC.
 
+Quadro 2: ODA´s em EPT.
 
-**Quadro 2 aqui**
+|Objeto |Descrição| Categoria| Autores|
+|:---	|:---	|:--- | :--- |
+|**Alpha Myu 3D** | Software de simulação tridimensional que permite visualizar uma peça de roupa sob vários ângulos. | Software / App | SILVA; FRANÇA (2017). | 
+|**Academusnet** | Ambiente de aprendizagem colaborativo baseado na web. | AVA | OLIVEIRA (2016). |
+|**App Inventor** | Software que permite a criação de aplicativos através de uma interface gráfica e da manipulação de elementos gráficos e visuais diversos. | Software / App | ELIAS; ROCHA; MOTTA (2017). | 
+|**Audaces 3D** | Softwares para desenhos em 2D e modelagem paramétrica de superfícies em 3D, utilizado para o desenvolvimento de moldes. | Software / App | SILVA; FRANÇA (2017). | 
+|**Aulanet** | Ambiente de aprendizagem colaborativo baseado na web. | AVA | OLIVEIRA (2016). | 
+|**Beer Game** | Jogo que traz problemas sobre um processo de cadeia de suprimentos. | Game & SILVA (2016).| 
+|**CADeSIMU CircuitLab** | Software que permite o desenvolvimento de diagramas em comandos elétricos e possibilita a realização de simulações. | Software/ App | WALCHHUTTER; PIAGETTI; ARAÚJO (2018). | 
+|**CITTA** | Jogo que permite a investigação e solução de conflitos num contexto de simulação. | Game | WALCHHUTTER; PIAGETTI; ARAÚJO (2018). | 
+|**CLO3D** | Software que trabalha com simulação das propriedades físicas dos tecidos. | Software / App & SILVA; FRANÇA (2017). | **Coursera** | Oferece diversos cursos online e gratuitos. | MOOC | BRITO; VALLS (2017). | 
 
+\textbf{Cuidando Bem} & Jogo que se passa em um ambiente hospitalar. O
+jogador assume o papel de um personagem técnico de enfermagem
+recém-formado, que foi contratado pelo hospital e está em fase de
+experiência. & Game & DIAS et al. (2016). \\ \hline
 
+\textbf{DigesTower} & Jogo que se passa dentro do sistema digestório
+	humano. & Game & DIAS et al. (2016). \\ \hline
+
+\textbf{E-baby} & Jogo que simula um caso clínico, no qual o jogador
+	deverá oferecer suporte a um recém-nascido. & Game & DIAS et al.
+	(2016). \\ \hline
+
+\textbf{Edmodo} & Plataforma que permite que os professores compartilhem
+	e gerenciem conteúdos e atividades e se comuniquem com alunos e pais. &
+	AVA & SILVA; ALMEIDA (2018). \\ \hline
+
+\textbf{Escola do Trabalhador} & Contém diversos cursos nas áreas de
+Ambiente e Saúde; Controle e Processos Industriais; Desenvolvimento
+Educacional e Social; Gestão e Negócios; Informação e Comunicação;
+Infraestrutura; Produção Alimentícia; Produção Cultural e Design;
+Produção Industrial; Recursos Naturais; Segurança; Turismo,
+Hospitalidade e Lazer. & MOOC & RAMOS et al. (2019). \\ \hline
+
+\textbf{Faz Game} & 
+Software que possibilita aos professores e alunos criarem games
+educacionais narrativos de conteúdos curriculares diversos. Vendido
+através de licenciamento anual. https://www.fazgame.com.br/\strut
+& Software / App & SILVA (2019); MORAIS (2018). \\ \hline 
+
+\textbf{Geogebra} & Software livre que pode ser utilizado em
+multiplataformas, reúne informações e recursos em diversas áreas da
+matemática como geometria, álgebra, planilha de cálculo, gráficos,
+probabilidade, estatística e cálculos simbólicos. & Software / App &
+MIRANDA et al. (2018);
+SILVA; BARONE; BASSO (2016);
+GUTERRES; SILVEIRA, (2017).
+LAUDARES; RAMOS (2019);
+GENUÍNO (2019);
+E. SILVA (2018).
+\\ \hline
+
+\textbf{Google Sala de Aula} & Plataforma que permite que professores e
+alunos compartilhem e gerenciem conteúdos e atividades além de poderem
+se comunicar. & AVA &
+GRILLO, AHLERT (2018);
+CARNEIRO; LOPES; CAMPOS NETO (2018);
+SANTANA; FERREIRA (2018);
+PINHEIRO (2019).  \\ \hline
+
+\textbf{Map of Life} & Aplicativo que contém informações diversas sobre
+	biodiversidade. & Software / App & SANTOS; SOUZA (2019). \\ \hline
+
+\textbf{Moodle} & Ambiente de aprendizagem colaborativo baseado na web.
+Possui ferramentas de comunicação, de avaliação, de disponibilização de
+conteúdos e de administração e organização. & AVA & OLIVEIRA (2016);
+SOARES (2018). \\ \hline
+
+\textbf{OptiTex} & Sistema utilizado para construção e visualização de
+moldes em 3D. & Software / App & SILVA; FRANÇA (2017). \\ \hline
+
+\textbf{PhET} & Ambiente virtual formado por simulações contemplando as
+seguintes áreas: Biologia, Ciências da Terra, Física, Matemática e
+Química. & Software / App & WOEHL (2019); RIBEIRO (2019); SERBIM
+(2018). \\ \hline  
+
+\textbf{SCRATCH} & Software gráfico/visual de programação que
+possibilita a criação de histórias, jogos e animações interativas. &
+Software / App & \begin{minipage}[t]{\linewidth}\raggedright
+WALCHHUTTER; PIAGETTI; ARAÚJO (2018);\\ 
+SILVA; MONTANÉ (2017);\\
+ROCHA (2020).\strut
+ \\  \hline
+
+\textbf{SENAI RA} & Aplicativo em que os usuários utilizam o sistema de
+realidade aumentada para acessar imagens impressas nos livros didáticos,
+vídeos, simuladores e objetos em 3D. & Software / App & SOUZA;
+LORENÇATTO (2019). \\ \hline
+
+\textbf{Simulador Eletronics Workbench -- EWB PSPICE ou ORCAD ISIS
+PROTEUS} & Programas que permitem a simulação de circuitos elétricos e
+eletrônicos e possibilitam a execução de testes de projeto. & Software /
+App & WALCHHUTTER; PIAGETTI; ARAÚJO (2018). \\ \hline
+
+\textbf{Software E³} & Permite a elaboração de desenhos de projetos
+elétricos, a criação de painéis eletrônicos em 2D ou 3D e a verificação
+automática de erros. https://www.e3seriescenter.com/pt/. & Software /
+App & WALCHHUTTER; PIAGETTI; ARAÚJO (2018). \\ \hline
+
+\textbf{Solidworks} & Software de CAD 3D que, através da computação
+paramétrica, cria formas tridimensionais (sólido ou superfície), a
+partir de um sketch 2D. Funciona no sistema operacional Windows. &
+Software / App & BATTISTI; CORRÊA (2018). \\ \hline 
+
+\textbf{Veduca} & Portal brasileiro que reúne cursos legendados de
+diversas universidades estrangeiras e videoaula das estaduais paulistas
+USP, Unicamp e Unesp. & MOOC & BRITO; VALLS (2017). \\ \hline 
+
+\textbf{Web Ensino} & É um ambiente de aprendizagem colaborativo baseado
+na web. & AVA & OLIVEIRA (2016). \\ \hline 
 
 Fonte: Elaborado pelos Autores. Dados de pesquisa.
 

@@ -1,6 +1,6 @@
 aiofiles==0.7.0
-anaconda-client==1.7.2
-anaconda-navigator==2.0.3
+anaconda-client==1.2.2
+anaconda-navigator
 anyio==3.3.4
 appdirs==1.4.4
 argh==0.26.2

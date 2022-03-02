@@ -9,6 +9,13 @@ Projeto da Superintendência de Educação Aberta e a Distância da Universidade
 Encontra-se em desenvolvimento. 
 
 <!-- 
+
+🌵❤️
+
+✍️ 🙌  👇👇👇 🤗
+
+👨🏻‍💻🤓🏋️‍🏸🎾🚀
+
 === "Questão 1"
 
     Cálculo o seguinte limite: $\displaystyle\lim_{x\to 0} \sqrt[3]{x^4+2}$ 
